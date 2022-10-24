@@ -1,0 +1,903 @@
+Structure Number,Structure Name,Asset Class,Structure Type,Inventory Date,Road No.,km,Municipality,Total Length,Total Width,No of Spans,Bridge Type,Construction Date
+B0120,PYLS RIVER CAUSEWAY,Bridge,Bridge,11/13/2019,DR02159+,7.9,Bergrivier,6,8.5,1,Simply supported,1/1/1999
+B0317,RIET RIVER,Bridge,Bridge,11/12/2019,DR02244+,25.63,Witzenberg,37.3,4.65,4,Continuous,1/1/1926
+B0320,BRIDGE OVER WATERVALSRIVIER,Bridge,Bridge,11/13/2019,DR02196,23.89,Cederberg,25.8,9,4,Simply supported,1/1/1968
+B0325,RONDEGAT RIVER AT CLANWILLIAM DAM,Bridge,Bridge - Arch,11/12/2019,DR02183,14.21,Cederberg,30,6,2,Frame,1/1/1935
+B0326,BRIDGE OVER RONDEGATRIVIER,Bridge,Bridge,12/3/2019,  DR02182,0.44,Cederberg,20,4.2,2,Simply supported,1/1/1951
+B0327,BRIDGE OVER THEERIVIER,Bridge,Bridge,12/3/2019, DR02176,24.44,Cederberg,26.4,5.5,3,Simply supported,1/1/1959
+B0328,KROM ANTONIES RIVER,Bridge,Bridge,11/14/2019,DR02162+,34.42,Bergrivier,19.2,9.4,2,Simply supported,1/1/1970
+B0436,BRIDGE OVER SALT RIVER,Bridge,Bridge,11/12/2019,  DR02383,10.07,Beaufort West,29,4.3,3,Simply supported,1/1/1952
+B0438,BRIDGE OVER SKILPADSKOP RIVER,Bridge,Bridge,11/13/2019,DR02370,16.79,Beaufort West,9.6,7.1,1,Simply supported,1/1/1952
+B0443,BRIDGE OVER HANS RIVER,Bridge,Bridge,11/13/2019,DR02307,8.59,Beaufort West,30,8.3,6,Simply supported,1/1/1958
+B0473,DONGASKLOOF RIVER,Bridge,Bridge,11/20/2019,DR01688,19.53,Kannaland,11,7.76,1,Simply supported,1/1/1951
+B0474,BREELAAGTE RIVER,Bridge,Bridge,10/26/2020,DR01688,14.83,Kannaland,19,9.1,2,Simply supported,1/1/1951
+B0477,OLIFANTS RIVER CAUSEWAY,Bridge,Bridge,11/6/2019,DR01681+,25.48,Oudtshoorn,30,4.42,6,Simply supported,1/1/2000
+B0478,OLIFANTS RIVER CAUSEWAY,Bridge,Bridge,11/5/2019,DR01673+,2.28,Oudtshoorn,66.4,6.6,2,Continuous,1/1/2000
+B0484,Malgas River,Bridge,Bridge,11/18/2019,DR01640,5.61,George,9.3,7.3,1,Arch,1/1/1904
+B0485,Witte Els River 1,Bridge,Bridge,11/8/2019,DR01599,13.96,George,6.66,3.6,1,Frame,1/1/2000
+B0485A,Witte Els River 2,Bridge,Bridge,11/8/2019,DR01599,13.91,George,6.67,3.2,1,Frame,1/1/2000
+B0485B,Witte Els River 3,Bridge,Bridge,11/8/2019,DR01599,13.2,George,7.25,3.2,1,Frame,1/1/2000
+B0486,Moeras River,Bridge,Bridge,11/8/2019,DR01599,15.98,George,26,3.5,4,Simply supported,1/1/2000
+B0488,Brandwag River,Bridge,Bridge,11/6/2019,DR01582,0.55,Mossel Bay,64.1,4.25,5,Simply supported,1/1/2000
+B0489,GOUKOU RIVER,Bridge,Bridge,11/14/2019,DR01568,48.33,Hessequa,39.5,9.24,8,Simply supported,
+B0491,VETTE RIVER AT RIVERSDALE,Bridge,Bridge,11/14/2019,DR01568,51.61,Hessequa,58.6,9.5,6,Simply supported,1/1/1959
+B0495,BRIDGE OVER SANDRIVIER AT MODDERDRIFT FARM,Bridge,Bridge,10/31/2019,DR01489+,0.53,Breede Vallei,8.7,3.7,1,Simply supported,1/1/1999
+B0496,BRIDGE OVER HEX RIVER AT MODDERDRIFT FARM,Bridge,Bridge,10/31/2019,DR01489+,0.38,Breede Vallei,20,5,2,Simply supported,1/1/1954
+B0498,WELGEMOED RIVER CAUSEWAY,Bridge,Bridge,11/13/2019,DR01479+,0.76,Witzenberg,7,7.4,1,Simply supported,1/1/1999
+B0499,WINTERHOEK RIVER,Bridge,Bridge,11/20/2019,DR01476+,0.19,Witzenberg,19.9,4.85,2,Simply supported,1/1/1946
+B0501,KLEIN BERG RIVER,Bridge,Bridge,11/19/2019,DR01464+,0.88,Witzenberg,18.6,4.9,2,Simply supported,1/1/1953
+B0503,KROM RIVER,Bridge,Bridge,11/19/2019,DR01461+,0.72,Witzenberg,29,10.35,3,Simply supported,1/1/1921
+B0504,KLEIN BERG RIVER,Bridge,Bridge,11/19/2019,DR01461+,5.89,Witzenberg,39.2,4.9,4,Simply supported,1/1/1958
+B0505,SCHAAP RIVER NO 2,Bridge,Bridge,11/11/2019,DR01458+,10.62,Witzenberg,7,13,1,Simply supported,1/1/1999
+B0505A,SCHAAP RIVER NO 1,Bridge,Bridge,11/11/2019,DR01458+,10.22,Witzenberg,7,13,1,Simply supported,1/1/1999
+B0506,WATERFALL RIVER,Bridge,Bridge,11/18/2019,DR01444+,2.61,Witzenberg,18.8,4.84,2,Simply supported,1/1/1954
+B0507,BRIDGE OVER HEX RIVER NEAR DE DOORNS,Bridge,Bridge,10/30/2019,DR01438+,0.6,Breede Vallei,30,9.5,3,Simply supported,1/1/1956
+B0508,HEX RIVER,Bridge,Bridge,7/10/2002,DR01438,5.6,Breede Vallei,23.6,4.25,1,Simply supported,1/1/1932
+B0509,WABOOMS RIVER NO 2,Bridge,Bridge,11/14/2019,DR01434+,5.69,Witzenberg,6.7,10.4,1,Simply supported,1/1/1968
+B0510A,WABOOMS RIVER NO 1,Bridge,Bridge,11/14/2019,DR01434+,3.33,Witzenberg,7,10.85,1,Simply supported,1/1/1935
+B0512,Touws River,Bridge,Bridge,10/29/2019,DR0142,21.3,Breede Vallei,17.8,6.1,3,Simply supported,1/1/1946
+B0513,HARTEBEEST RIVER BRIDGE,Bridge,Bridge,10/31/2019,DR01425,0.63,Breede Vallei,9.7,4.64,1,Simply supported,1/1/1947
+B0514,HARTEBEEST RIVER BRIDGE,Bridge,Bridge,10/31/2019,DR01418,3.42,Breede Vallei,9.9,8.26,1,Simply supported,
+B0518,KONINGS RIVER,Bridge,Bridge,11/17/2019,DR01334,9.33,Langeberg,28.4,6.2,4,Continous and simply supported,1/1/1937
+B0519,HEX RIVER AT AAN DE DOORNS NO 1,Bridge,Bridge,11/7/2019,DR01395+,1.43,Breede Vallei,20.1,8.7,3,Simply supported,1/1/1957
+B0520,HEX RIVER AT AAN DE DOORNS NO 2,Bridge,Bridge,11/6/2019,DR01395+,1.5,Breede Vallei,42.7,8.7,7,Simply supported,1/1/1957
+B0524,HUGOS RIVER,Bridge,Bridge,11/21/2019,DR01385,2.2,Drakenstein,9.4,10,1,Simply supported,1/1/1953
+B0525,HOEKS RIVER AT MOORDKUIL,Bridge,Bridge,11/1/2019,DR01347+,24.23,Breede Vallei,30,8.4,3,Simply supported,1/1/1957
+B0527A,FRANSCHOEK ROVER BRIDGE,Bridge,Bridge,11/27/2019,DR01343,2.46,Stellenbosch,9.1,8.56,1,Simply supported,1/1/1961
+B0532A,BRIDGE OVER KLIPRIVIER,Bridge,Bridge,12/11/2019,DR01325+,0.63,Swellendam,63.7,5.5,2,Truss,
+B0536,DUIWENHOKS RIVER CAUSEWAY,Bridge,Bridge,2/12/2003,DR01315,,,72.1,6.1,14,Simply supported,1/1/1999
+B0538,RIVIERSONDEREND CAUSEWAY NO 1,Bridge,Bridge,11/12/2019,DR01309,1.38,Theewaterskloof,56.4,4.28,12,Simply supported,1/1/1945
+B0538A,RIVIERSONDEREND CAUSEWAY NO 2,Bridge,Bridge,11/12/2019,DR01309,1.67,Theewaterskloof,15.05,4.28,3,Continuous,
+B0539,KWARTEL RIVER,Bridge,Bridge,11/11/2019,DR01308,8.85,Theewaterskloof,6.5,4.9,1,Simply supported,
+B0540A,BRIDGE OVER RIVIERSONDEREND,Bridge,Bridge,12/8/2019,DR01306+,1.49,Swellendam,10,3,1,Simply supported,
+B0543,BRIDGE OVER GOOBOS RIVER NEAR GREYTON ,Bridge,Bridge,11/5/2019,DR01303,32.24,Theewaterskloof,39.7,8.14,4,Continuous,
+B0545,RIVIERSONDEREND NEAR KLEIN PLASIE,Bridge,Bridge - Arch,11/12/2019,DR01303,5.52,Theewaterskloof,31,4.65,1,Arch,
+B0547,CAUSEWAY AT MIDDELPLAAS KM 16.55,Bridge,Bridge,11/6/2019,DR01298,16.55,Theewaterskloof,50,5.05,8,Multi-continuous,1/1/1953
+B0549A,CAUSEWAY AT MIDDELPLAAS NO.2 AT KM 16.71,Bridge,Bridge,11/5/2019,DR01298,16.71,Theewaterskloof,29,4.3,3,Simply supported,
+B0550,MEUL RIVER CAUSEWAY,Bridge,Bridge,10/3/2002,DR01298,17.87,Theewaterskloof,12.3,4.9,2,Simply supported,1/1/1930
+B0552,JAGERSBOSKLOOF RIVER,Bridge,Bridge,11/5/2019,DR01298+,20.88,Theewaterskloof,8,10.4,1,Simply supported,
+B0553,CAUSEWAY AT GREYTON NO. 2,Bridge,Bridge,11/5/2019,DR01294+,16.87,Theewaterskloof,13.9,6.1,2,Continuous,
+B0554,CAUSEWAY AT GREYTON NO.1,Bridge,Bridge,11/5/2019,DR01294+,17.02,Theewaterskloof,88.3,4.3,13,Continuous,
+B0555,KWARTEL RIVER BRIDGE ,Bridge,Bridge,11/6/2019,DR01294+,6.6,Theewaterskloof,10.8,7.4,2,Continuous,
+B0559,BRIDGE OVER SOUT RIVER AT SOUTKUIL,Bridge,Bridge,11/22/2019,DR01280+,13.53,Cape Agulhas,20,4.9,3,Simply supported,1/1/1950
+B0560,RIVIERSONDEREND CAUSEWAY NO 1,Bridge,Bridge,11/11/2019,DR01279,20.79,Theewaterskloof,20.9,3.63,4,Simply supported,
+B0562,RIVIERSONDEREND CAUSEWAY NO 2,Bridge,Bridge,11/11/2019,DR01279,20.96,Theewaterskloof,32.44,3.65,7,Simply supported,
+B0567,KROM RIVER,Bridge,Bridge,12/2/2019,DR01264+,11.98,Theewaterskloof,16.8,10.4,2,Simply supported,1/1/1960
+B0568,HARTEBEEST RIVER TRIBUTARY CAUSEWAY,Bridge,Bridge,11/19/2019,DR01257+,11.13,Theewaterskloof,6.9,4.7,1,Simply supported,
+B0569,Bot River,Bridge,Bridge,11/28/2019,DR01254,10.13,Overstrand,63,5.05,2,Truss,1/1/1914
+B0570,Onrust River Causeway,Bridge,Bridge,12/3/2019,DR01239+,0.15,Overstrand,12,4.3,2,Continuous,1/1/1960
+B0571,BRIDGE OVER KARS RIVER AT ROOIDRAAI,Bridge,Bridge,11/22/2019,DR01233+,0.18,Cape Agulhas,27,8,3,Simply supported,1/1/1947
+B0572,BRIDGE OVER SOUT RIVER,Bridge,Bridge,12/6/2019,DR01232+,8.02,Cape Agulhas,29,8,3,Simply supported,1/1/1962
+B0573,BOT RIVER TRIBUTARY CULVERT,Bridge,Bridge,12/6/2002,DR01254,10.24,Overstrand,10.4,9.6,1,Unknown,1/1/1948
+B0574,HARTEBEEST RIVER NO 1 ,Bridge,Bridge - Arch,11/19/2019,DR01252+,12.3,Theewaterskloof,30.6,4.21,7,Arch,
+B0574A,HARTEBEEST RIVER NO 2 ,Bridge,Bridge - Arch,11/19/2019,DR01252+,12.4,Theewaterskloof,30.4,4.21,10,Arch,
+B0574B,HARTEBEEST RIVER NO 3 ,Bridge,Bridge - Arch,11/19/2019,DR01252+,12.5,Theewaterskloof,30.6,4.21,10,Arch,
+B0575,UILENKRAALS RIVER,Bridge,Bridge,10/10/2002,DR01205,7.96,Overstrand,24.7,7,2,Continuous,1/1/1944
+B0579,SOUT RIVER AT SOUTKLOOF,Bridge,Bridge,11/19/2019,DR01173,17.75,Saldanha Bay,19.5,8.1,3,Simply supported,1/1/2001
+B0580,Delta River Causeway,Bridge,Bridge,11/20/2019,DR01172+,9.43,Bergrivier,21.8,4.2,6,Simply supported,1/1/1957
+B0586,ZOUT RIVER AT UITVLUGT,Bridge,Bridge,11/28/2019,DR01161,22.07,Swartland,29.5,7.35,3,Simply supported,1/1/1948
+B0589,Oudepos stream Bridge,Bridge,Bridge,11/18/2019,DR01160,8.57,Swartland,15.8,4.9,2,Simply supported,1/1/1949
+B0592,Riebeeks River at Wynkeldershoek,Bridge,Bridge,11/12/2019,DR01153,0.97,Swartland,18.1,4.3,2,Continuous,1/1/1929
+B0593,KOMPAGNIES RIVER,Bridge,Bridge,11/22/2019,DR01152,10.5,Drakenstein,13.4,4.52,2,Simply supported,1/1/1924
+B0594,DRUIWEVALLEI RIVER,Bridge,Bridge,11/22/2019,DR01152,8.04,Drakenstein,9,7.3,1,Simply supported,1/1/1946
+B0596,DIEP RIVER AT RUSFONTEIN,Bridge,Bridge,11/6/2019,DR01150,2.13,Swartland,29,4.6,3,Continuous,1/1/1935
+B0597,Diep River Bridge at Abbotsdale,Bridge,Bridge,11/5/2019,DR01146,5.88,Swartland,29.7,4.3,3,Continuous,
+B0599,Diep River at Kalbaskraal,Bridge,Bridge,11/5/2019,DR01138,1.81,Swartland,39,4.8,4,Simply supported,
+B0601,"DOORN RIVER AT ZEEKOEGAT
+",Bridge,Bridge,12/9/2019,DR01131,12.87,Swartland,24.45,8,3,Simply supported,1/1/1958
+B0602,ROAD OVER RAIL NEAR OLYVENHOUT,Bridge,Bridge,11/22/2019,DR01129,0.26,Drakenstein,33.6,12.1,3,Simply supported,1/1/1972
+B0608,HUGOS RIVER,Bridge,Bridge,11/21/2019,DR01118,6.17,Drakenstein,11.6,10.7,1,Simply supported,1/1/1959
+B0609,Bridge over Diep River van Schoorsdrift No.1,Bridge,Bridge,11/5/2019,DR01111,12.46,City of Cape Town (LMB),15.3,6.1,3,Continuous,
+B0610,Bridge over Diep River van Schoorsdrift No.2,Bridge,Bridge,11/5/2019,DR01111,12.57,City of Cape Town (LMB),43.5,6.4,4,Simply supported,
+B0611A,Bridge over Diep River Tributary at Malmesbury,Bridge,Bridge,11/5/2019,DR01111,38.7,Swartland,13.7,8.04,2,Simply supported,
+B0614,BRIDGE OVER DIEP RIVER TRIBUTORY,Bridge,Bridge,7/20/2021,DR01102+,5.06,City of Cape Town (LMB),,,3,,
+B0618,"EERSTE RIVER AT ANNANDALE
+",Bridge,Bridge,10/31/2019,DR01050,0.29,Stellenbosch,26.45,14.84,1,Simply supported,1/1/2018
+B0905,BRIDGE OVER NUWEJAARS RIVER TRIBUTARY,Bridge,Bridge,9/18/2002,DR01205,46.48,Cape Agulhas,13.6,7.45,2,Simply supported,1/1/1950
+B0919,KUNJE RIVER,Bridge,Bridge,11/12/2019,MR00310+,83.86,Witzenberg,33.9,10.2,5,Simply supported,1/1/1961
+B0951,ROAD OVER RAIL AT WELLINGTON STATION,Bridge,Bridge,11/22/2019,MR00219,0.1,Drakenstein,85.7,12.7,8,Simply supported,
+B0967,Road over rail at Blackheath,Bridge,Bridge,11/4/2019,MR00177,17.11,City of Cape Town (LMB),41.3,19.6,3,Simply supported,
+B0980,ROAD OVER RAIL AT HUGENOT STATION,Bridge,Bridge,11/20/2019,MR00189,39.97,Drakenstein,130.5,13.3,16,Simply supported,1/1/1939
+B0981A,Brige over Berg River,Bridge,Bridge,11/20/2019,MR00189,39.68,,74.3,24.95,3,Cantilever with drop in spans,1/1/1972
+B0998B,KROMME RIVER AT WELLINGTON,Bridge,Bridge,11/22/2019,MR00023,21.07,Drakenstein,28.8,17.95,3,Simply supported,1/1/1955
+B1001,BRIDGE OVER SOUT RIVER,Bridge,Bridge,11/12/2019,DR02383,10.19,Beaufort West,25.2,5.9,7,Simply supported,
+B1302,Steel Bridge over Gouritz River,Bridge,Bridge,11/5/2019,NR00206,52.96,Mossel Bay,225,,3,Other,1/1/1930
+B1420,WITBRUG OVER KNYSNA LAGOON - SOUTHBOUND,Bridge,Bridge,1/23/2020,TR00210,54.77,Knysna,,,5,,1/1/1987
+B1509,Courtney Street Overhead,Bridge,Bridge,11/9/2019,TR00210,1.92,George,26.8,18.4,3,Simply supported,1/1/1968
+B1564,SEEKOEI RIVER,Bridge,Bridge,11/7/2001,TR01105,11.73,,25.2,13.05,3,Simply supported,1/1/1962
+B1689,24 RIVERS AT HALFMANSHOF NO 2,Bridge,Bridge,11/12/2001,DR01167,,,10.9,7.35,1,Simply supported,1/1/1944
+B1689A,24 RIVERS AT HALFMANSHOF NO 1,Bridge,Bridge,11/12/2001,DR01167,,,10.9,7.3,1,Simply supported,1/1/1944
+B1730,VLEI RIVER,Bridge,Bridge,11/20/2019,DR01688,25.73,Kannaland,26.02,6.7,2,Simply supported,1/1/1942
+B1731,WYNANDS RIVER,Bridge,Bridge,11/7/2019,DR01688+,38.85,Oudtshoorn,20.5,6.72,3,Simply supported,1/1/2000
+B2040,ROAD OVER RAIL AT LANGENHOVEN,Bridge,Bridge,11/5/2019,TR07501+,31.7,Oudtshoorn,54.2,12.78,5,Simply supported,1/1/2000
+B2100,Camfersdrift River,Bridge,Bridge,11/10/2019,TR00101,0.56,George,9.9,16.5,1,Simply supported,1/1/1963
+B2101,Malgas River,Bridge,Bridge - Arch,11/10/2019,TR00101,4.15,George,19.1,16.2,1,Arch,1/1/2000
+B2102,ROAD OVER RAIL NEAR CAMPHER STATION,Bridge,Bridge,7/30/2020,TR00102+,4.89,George,8.05,14.4,1,Simply supported,1/1/1951
+B2103,Doorn River,Bridge,Bridge,11/18/2019,TR00102,8.75,George,38.4,8.8,4,Simply supported,1/1/1951
+B2107,Ezeljacht River,Bridge,Bridge,11/19/2019,TR00102,20.27,George,19.6,8.4,2,Simply supported,1/1/1952
+B2108,Ganzekraal River,Bridge,Bridge,11/19/2019,TR00102,34.74,George,28.9,8.4,3,Simply supported,1/1/1953
+B2109,BRIDGE OVER MOLEN RIVER,Bridge,Bridge,2/1/2021,TR00102,44.44,George,38.7,8.3,3,Simply supported,1/1/1955
+B2110,BRIDGE OVER DIEP RIVER,Bridge,Bridge,2/1/2021,TR00102,45.69,George,25.6,8.3,2,Simply supported,1/1/1955
+B2111,BRIDGE OVER KEURBOOMS RIVER,Bridge,Bridge,2/1/2021,TR00102,58.96,George,16.3,12.7,1,Simply supported,1/1/1960
+B2112,BRIDGE OVER POTJIES RIVER,Bridge,Bridge,2/1/2021,TR00102,77.29,George,19.4,12.7,2,Simply supported,1/1/1959
+B2113,BRIDGE OVER KAMMANASSIE RIVER,Bridge,Bridge,2/1/2021,TR00103+,0.02,George,48.3,11.4,3,Simply supported,1/1/1961
+B2114,Olifants River,Bridge,Bridge,11/22/2019,TR0103,32.13,George,51.6,11.8,4,Simply supported,1/1/1961
+B2167,Black River Viaduct (Voortrekker Road),Bridge,Bridge,11/6/2019,TR00201,0.66,City of Cape Town (LMB),371,32.16,26,Simply supported,
+B2168,BERKLEY ROAD UNDERPASS,Bridge,Bridge,11/6/2019,TR00201,1.12,City of Cape Town (LMB),48.15,28.5,4,Simply supported,
+B2170,BLACK RIVER AT VALKENBERG NO 1,Bridge,Bridge,11/11/2003,TR00201,1.97,City of Cape Town (LMB),62.8,12.5,4,Simply supported,1/1/1962
+B2170A,BLACK RIVER AT VALKENBERG NO 2,Bridge,Bridge,11/11/2003,TR00201,1.97,City of Cape Town (LMB),62.8,12.5,4,Simply supported,1/1/2005
+B2172,Black River NE Ramp,Bridge,Bridge,11/7/2019,TR00201,3,City of Cape Town (LMB),54.8,8.2,3,Simply supported,
+B2175,ELSIESKRAAL RIVER,Bridge,Bridge,11/15/2019,TR00201,5,City of Cape Town (LMB),15,37,2,Simply supported,
+B2177,Bokmakierie Road Interchange,Bridge,Bridge,11/8/2019,TR00201,5.64,City of Cape Town (LMB),67.4,24,4,Simply supported,
+B2178,LANGA ROAD INTERCHANGE,Bridge,Bridge,11/13/2019,TR00201,6.84,City of Cape Town (LMB),48.2,11.2,4,Simply supported,
+B2179,VANGUARD DRIVE INTERCHANGE NO 01,Bridge,Bridge,11/13/2019,TR00201,8.85,City of Cape Town (LMB),53.6,15.3,4,Simply supported,
+B2180,MODDERDAM INTERCHANGE,Bridge,Bridge,11/12/2019,TR00201,10.45,City of Cape Town (LMB),52.8,15,4,Simply supported,
+B2181,NYANGA ROAD OVER RAIL NO 1,Bridge,Bridge,4/2/2003,TR00201,10.86,City of Cape Town (LMB),20.6,15.4,2,Simply supported,1/1/1962
+B2181A,NYANGA ROAD OVER RAIL NO2 - WIDENING NEW NUMBER B5955,Bridge,Bridge,4/2/2003,TR00201,10.86,City of Cape Town (LMB),20.6,15.4,2,Simply supported,1/1/1962
+B2182,NYANGA WEST ROAD OVER ROAD - REPLACED BY B5996,Bridge,Bridge,4/3/2003,TR00201,11.47,City of Cape Town (LMB),54,12.8,4,Simply supported,1/1/1961
+B2184,BORCHERDS QUARRY ROAD INTERCHANGE NO 01,Bridge,Bridge,11/12/2019,TR00201,14.14,City of Cape Town (LMB),39,16,3,Simply supported,
+B2184A,BORCHERDS QUARRY INTERCHANGE NO 2,Bridge,Bridge,11/12/2019,TR00201,14.14,City of Cape Town (LMB),39,16,3,Simply supported,
+B2219,Great Brak River,Bridge,Bridge,11/7/2019,TR00209,0.88,Mossel Bay,104,8.4,10,Simply supported,1/1/2000
+B2221,Maalgaten River,Bridge,Bridge - Arch,11/8/2019,TR00209,15.1,George,78.9,7.3,3,Arch,1/1/1940
+B2231,BRIDGE OVER GOUKAMMA RIVER,Bridge,Bridge,11/28/2019,OP06916,0.18,Knysna,48.3,7.86,3,Simply supported,1/1/1946
+B2233,WITBRUG OVER KNYSNA LAGOON - NORTHBOUND,Bridge,Bridge,1/23/2020,TR00210,54.76,Knysna,,,5,,1/1/1951
+B2237A,SALT RIVER,Bridge,Bridge - Arch,10/30/2019,TR00212,15.09,Bitou,46.9,8.45,14,Arch,
+B2238,BRIDGE OVER GROOT RIVER,Bridge,Bridge,10/31/2019,TR00212,25.97,Bitou,65,7.68,13,Simply supported,1/1/1950
+B2239,BLAAUWKRANTZ RIVER,Bridge,Bridge - Arch,11/2/2019,TR00212,37.25,Bitou,35,7.4,2,Arch,1/1/1951
+B2361,BREEDE RIVER AT NIEUWDRIFT,Bridge,Bridge,11/7/2019,TR00902,45.25,Breede Vallei,193.2,8.2,12,Simply supported,1/1/1948
+B2362,BREEDE RIVER AT AMANDEL SPRUIT,Bridge,Bridge,11/7/2019,TR00902,46,Breede Vallei,64.1,8.2,4,Simply supported,1/1/1949
+B2363,BREEDE RIVER AT BOTHAS SPRUIT,Bridge,Bridge,11/7/2019,TR00902,46.33,Breede Vallei,129.6,8.3,8,Simply supported,1/1/1949
+B2364,HARTEBEEST RIVER BRIDGE,Bridge,Bridge,10/31/2019,TR00902,50.55,Breede Vallei,26.6,8.5,4,Simply supported,1/1/1945
+B2365,ROAD OVER RAIL AT HARTEBEESTKRAAL,Bridge,Bridge,10/31/2019,TR06902,51.6,Breede Vallei,13.2,9.8,1,Simply supported,1/1/1949
+B2414,BRIDGE OVER DIEP RIVER KLEIN VISSERSHOK ROAD,Bridge,Bridge,6/28/2021,YOP00089,0.27,City of Cape Town (LMB),,,18,,
+B2420,DARLING ROAD INTERCHANGE NBC,Bridge,Bridge,8/28/2001,TR01101,52.46,,13.9,14.3,1,Unknown,1/1/1961
+B2420A,DARLING ROAD INTERCHANGE SBC,Bridge,Bridge,8/28/2001,TR01101,52.46,,13.9,11.4,1,Unknown,1/1/1958
+B2422,KROMSPRUIT NO 1,Bridge,Bridge,11/7/2001,TR01102,14.89,,13.5,12.7,2,Simply supported,1/1/1959
+B2423,KROMSPRUIT NO 2,Bridge,Bridge,10/9/2001,TR01102,18.3,,19.9,12.7,3,Simply supported,1/1/1959
+B2424,KROMSPRUIT NO 3,Bridge,Bridge,11/7/2003,TR01102,18.92,,13.8,11.7,2,Simply supported,1/1/1961
+B2427,ROAD OVER RAIL NEAR RIETFONTEIN,Bridge,Bridge,11/18/2019,MR00527+,1.82,Bergrivier,30.2,8,3,Simply supported,1/1/1941
+B2429,MARKUSKRAAL RIVER,Bridge,Bridge,11/7/2003,TR01104,63.13,,29.5,8.7,3,Simply supported,1/1/1953
+B2430,ELANDSKLOOF RIVER,Bridge,Bridge,11/5/2001,TR01104,67.36,,13.9,11,2,Simply supported,1/1/1954
+B2431,KRANSVLEI RIVER,Bridge,Bridge,11/7/2003,TR01104,89.22,,17.3,10.8,2,Simply supported,1/1/1958
+B2432,WELGEMEENT CANAL NO 1,Bridge,Bridge,11/6/2001,TR01105,34.51,,11.4,11.75,1,Simply supported,1/1/1962
+B2433,WELGEMEENT CANAL NO 2,Bridge,Bridge,11/6/2001,TR01105,34.59,,11.4,11.75,1,Simply supported,1/1/1962
+B2435,OLIFANTS RIVER AT KRANTZ,Bridge,Bridge - Arch,11/7/2003,TR01105,47.84,,165.6,8.4,6,Arch,1/1/1957
+B2436,SYPHON CANAL AT KRANTZ,Bridge,Bridge,1/7/2002,TR01105,48.03,,8.1,21.7,1,Simply supported,1/1/1960
+B2491A,OLIFANTS RIVER,Bridge,Bridge,11/8/2019,TR01601+,0.91,Matzikama,251.6,10.38,20,Simply supported,1/1/1958
+B2492,DROE RIVER,Bridge,Bridge,11/7/2019,TR01601+,21.7,Matzikama,19,6.8,2,Simply supported,1/1/1943
+B2493,DROE RIVER,Bridge,Bridge,11/7/2019,TR01602+,8.93,Matzikama,21,9.5,3,Continuous,1/1/1958
+B2514,BRIDGE OVER TOWERWATER RIVER,Bridge,Bridge,11/11/2019,TR01610,10.58,Beaufort West,28.7,7.47,3,Simply supported,1/1/1953
+B2515,BRIDGE OVER BUFFALO RIVER,Bridge,Bridge,11/11/2019,TR01610,26.12,Beaufort West,31.8,8.25,2,Simply supported,1/1/1960
+B2516,BRIDGE OVER POORTJIES STREAM,Bridge,Bridge,11/11/2019,TR01610,30.98,Beaufort West,14.72,10.5,2,Simply supported,1/1/1962
+B2566,WILGENHOUT RIVER NO 1,Bridge,Bridge,11/20/2019,TR02001,19.1,Laingsburg,32,10.3,3,Simply supported,1/1/1959
+B2567,WILGENHOUT RIVER NO 2,Bridge,Bridge,11/21/2019,TR02001,20.92,Laingsburg,24.5,10.4,3,Simply supported,1/1/1960
+B2568,WILGENHOUT RIVER NO 3,Bridge,Bridge,11/18/2019,TR02001,23.41,Laingsburg,16.5,10.3,2,Simply supported,1/1/1961
+B2569,NUWERUS RIVER BRIDGE,Bridge,Bridge,11/19/2019,TR02001,29.66,Laingsburg,24.5,10.56,3,Simply supported,1/1/1961
+B2574,KLEIN BERG RIVER AT UITKYK,Bridge,Bridge,11/15/2019,TR02201+,5.84,Witzenberg,38.6,10.5,3,Simply supported,1/1/1961
+B2575,"DWARS RIVER AT CERES ""VAN BREDA BRIDGE""",Bridge,Bridge,11/7/2019,TR02201+,36.8,Witzenberg,95,12.2,7,Simply supported,1/1/1927
+B2577A,SKAAP RIVER,Bridge,Bridge,11/7/2019,TR02202+,10.92,Witzenberg,20,12.4,2,Simply supported,1/1/1952
+B2578,DORING RIVER,Bridge,Bridge,11/7/2019,TR02202+,40.58,Witzenberg,20,10.6,3,Simply supported,1/1/1966
+B2582A,KLEIN BERG RIVER,Bridge,Bridge,11/20/2019,TR02303,12.43,Drakenstein,65,11.66,4,Simply supported,1/1/1949
+B2584,24 RIVERS AT HALFMANSHOF NO 7,Bridge,Bridge,12/5/2001,DR01167,,,36.1,4.3,4,Continuous,1/1/1937
+B2585,24 RIVERS AT HALFMANSHOF NO 6,Bridge,Bridge,11/12/2001,DR01167,,,10.8,7.35,1,Simply supported,1/1/1944
+B2586,24 RIVERS AT HALFMANSHOF NO 5,Bridge,Bridge,11/12/2001,DR01167,,,10.8,7.3,1,Simply supported,1/1/1944
+B2587,24 RIVERS AT HALFMANSHOF NO 4,Bridge,Bridge,11/12/2001,DR01167,,,10.9,7.3,1,Simply supported,1/1/1944
+B2588,24 RIVERS AT HALFMANSHOF NO 3,Bridge,Bridge,11/12/2001,DR01167,,,101.1,4.6,15,Simply supported,1/1/1944
+B2592,BRIDGE OVER ESSENBOSCH RIVER,Bridge,Bridge,11/20/2019,TR02303+,40.94,Bergrivier,38.8,10.96,4,Simply supported,1/1/1976
+B2593,BRIDGE OVER KROM RIVER,Bridge,Bridge,11/20/2019,TR02303+,52.28,Bergrivier,67.2,11.38,7,Simply supported,1/1/1976
+B2596,BRIDGE OVER RIEBEEK AT DOORNKUIL,Bridge,Bridge,11/6/2019,TR02501,39.85,Swartland,38,10.2,3,Continuous,1/1/1962
+B2603,BOSKLOOF RIVER,Bridge,Bridge - Arch,11/13/2019,TR02701,46.09,City of Cape Town (LMB),9.5,8.05,1,Arch,1/1/1940
+B2604,STEENBRAS RIVER (BENNING BRIDGE),Bridge,Bridge - Arch,11/13/2019,TR02701,53.1,City of Cape Town (LMB),65.06,8,5,Arch,1/1/1933
+B2609,VOGELGAT RIVER,Bridge,Bridge,11/29/2002,TR02802,8.21,Overstrand,13.7,10.95,1,Simply supported,1/1/1962
+B2610,KLEIN RIVER,Bridge,Bridge,10/10/2002,TR02802,22.93,Overstrand,40.6,8.4,3,Simply supported,1/1/1948
+B2618,BRIDGE OVER KARS RIVER,Bridge,Bridge,12/6/2019,TR02902+,8.68,Cape Agulhas,25,7.2,4,Simply supported,1/1/1950
+B2619,ROAD OVER RAIL AT DE VLEI ,Bridge,Bridge,11/20/2019,TR03001+,1.53,Theewaterskloof,8.7,11.8,1,Simply supported,
+B2620,THEEWATERSKLOOF DAM SPILLWAY,Bridge,Bridge,11/20/2019,TR03001+,22.39,Theewaterskloof,20.2,13.3,1,Simply supported,1/1/1977
+B2623A,BRIDGE OVER KLIPRIVIER (STETTYN),Bridge,Bridge,11/1/2019,TR03002+,16.03,Breede Vallei,14,8.6,2,Simply supported,1/1/1954
+B2642,KINGNA RIVER NO1 AT COGMANSKLOOF,Bridge,Bridge,11/29/2019,TR03102,22.2,Langeberg,51.9,7.4,4,Simply supported,
+B2643,KINGNA RIVER NO 2 AT COGMANSKLOOF,Bridge,Bridge,10/31/2019,TR03102,23.52,Langeberg,38.6,7.2,3,Simply supported,1/1/1953
+B2644,KINGNA RIVER NO1 AT MONTAGU,Bridge,Bridge,11/29/2019,TR03102,25.89,Langeberg,66.6,12,4,Continuous,1/1/2020
+B2645,KINGNA RIVER NO 2 AT MONTAGU,Bridge,Bridge,11/29/2019,TR03103,1.25,Langeberg,27.4,10.4,4,Continuous,
+B2654A,BRIDGE OVER DORINGRIVIER,Bridge,Bridge,12/9/2019,TR03104+,9.37,Swellendam,25,10,3,Simply supported,1/1/1960
+B2655,BRIDGE OVER KOENIEKUILS RIVER,Bridge,Bridge,11/21/2019,TR08304,31.96,Kannaland,24,10.4,3,Simply supported,1/1/1961
+B2656,BOSVLAKTE RIVER,Bridge,Bridge,11/21/2019,TR08304,38.65,Kannaland,20,10.6,3,Simply supported,1/1/1962
+B2657,BRIDGE OVER TOUWS RIVER,Bridge,Bridge,11/21/2019,TR08304,42.99,Kannaland,105,10.5,8,Simply supported,1/1/1962
+B2658,BRIDGE OVER BOBBEJAANKRANS RIVER,Bridge,Bridge,11/21/2019,TR08304,45.16,Kannaland,26,10.5,4,Simply supported,1/1/1961
+B2659,BRIDGE OVER GROOT RIVER,Bridge,Bridge,11/20/2019,TR03104,57.37,Kannaland,95,10.1,5,Simply supported,1/1/1962
+B2660,STASSENSLEEGTE RIVER,Bridge,Bridge,11/20/2019,TR03104,65.9,Kannaland,13.6,10.3,2,Simply supported,1/1/1960
+B2664,NELS RIVER AT ZOAR ,Bridge,Bridge,11/19/2019,TR03105,18.53,Kannaland,12.97,8.5,1,Simply supported,1/1/1958
+B2665,SEVEN WEEKS POORT RIVER ,Bridge,Bridge,11/19/2019,TR03105,20.48,Kannaland,27,10.8,2,Simply supported,1/1/1959
+B2666A,COGMANSKLOOF RIVER AT ASHTON,Bridge,Bridge,11/28/2019,TR03102,17.75,Langeberg,84.8,9.9,5,Arch,1/1/1950
+B2668,BRIDGE OVER DORINGRIVIER,Bridge,Bridge,12/9/2019,TR03104+,19.21,Swellendam,41,10,5,Simply supported,1/1/1960
+B2673,BRIDGE OVER KEURBOOMSRIVIER,Bridge,Bridge,12/11/2019,TR03201+,38.11,Swellendam,29,13.9,3,Simply supported,
+B2676,Road over Rail at Voorbaai,Bridge,Bridge,11/6/2019,TR03301,13.36,Mossel Bay,20.1,16.1,1,Simply supported,1/1/2000
+B2678,MOERAS RIVER,Bridge,Bridge,11/6/2019,TR03302+,44.66,Oudtshoorn,19.8,7.52,2,Simply supported,1/1/2000
+B2679,KANDELAARS RIVER,Bridge,Bridge,11/6/2019,TR03302+,62.68,Oudtshoorn,29.5,7.74,3,Simply supported,1/1/2000
+B2680,B2680,Bridge,Bridge,11/6/2019,TR03302+,67.81,Oudtshoorn,133.8,8.34,7,Simply supported,1/1/2000
+B2681,GROBBELAARS RIVER,Bridge,Bridge,1/20/2003,TR03302,76.21,Oudtshoorn,64.5,21.35,4,Continuous,1/1/1962
+B2682,ROAD OVER RAIL BRIDGE AT STOLSVLAKTE,Bridge,Bridge,1/22/2020,TR03303,8.59,Oudtshoorn,8.3,9.6,1,Simply supported,
+B2683,CANGO RIVER BRIDGE,Bridge,Bridge,3/23/2020,TR03303,21.03,Oudtshoorn,40.17,12.5,4,Continous and simply supported,
+B2684,ROAD OVER RAIL BRIDGE AT LE ROUX STATION,Bridge,Bridge,3/23/2020,TR03303,27.6,Oudtshoorn,10.9,19,1,Simply supported,
+B2685,NELS RIVER BRIDGE,Bridge,Bridge,3/24/2020,TR03303,29.26,Oudtshoorn,33.1,10.1,5,Continous and simply supported,
+B2686,KLEIN RIVER BRIDGE,Bridge,Bridge,3/24/2020,TR03303,35.01,Oudtshoorn,30.2,20.5,3,Continous and simply supported,
+B2687,MEIRINGSPOORT CAUSEWAY NO 1,Bridge,Bridge,11/8/2019,TR03304+,1.75,Oudtshoorn,35,11,5,,
+B2688,MEIRINGSPOORT CAUSEWAY NO 2,Bridge,Bridge,11/8/2019,TR03304+,2.87,Oudtshoorn,29.6,10.4,4,,
+B2689,MEIRINGSPOORT CAUSEWAY NO 4,Bridge,Bridge,11/8/2019,TR03304+,5.8,Oudtshoorn,27.8,8.6,4,Continous and simply supported,
+B2689A,Meiringspoort Causeway no 5,Bridge,Bridge,11/23/2019,TR03304,6.03,Oudtshoorn,20.4,8.6,4,Simply supported,1/1/1998
+B2689B,MEIRINGSPOORT CAUSEWAY NO 6,Bridge,Bridge,11/8/2019,tr03304+,6.31,Oudtshoorn,26.9,8.7,4,Simply supported,
+B2689C,Meiringspoort Causeway no 7,Bridge,Bridge,11/23/2019,TR03304,6.82,Oudtshoorn,29.07,8.6,4,Simply supported,1/1/1998
+B2690,MEIRINGSPOORT CAUSEWAY NO 8,Bridge,Bridge,11/23/2019,TR03304,7.73,Oudtshoorn,43.97,8.6,6,Simply supported,1/1/1998
+B2690A,Meiringspoort Causeway no 9,Bridge,Bridge,11/23/2019,TR03304,8.49,Oudtshoorn,20.8,8.6,4,Simply supported,1/1/1998
+B2691,Meiringspoort Causeway no 10,Bridge,Bridge,11/23/2019,TR03304,8.76,Oudtshoorn,32.8,8.6,5,Simply supported,1/1/1998
+B2691A,Meiringspoort Causeway no 11,Bridge,Bridge,11/23/2019,TR03304,9.25,Oudtshoorn,24.3,8.6,4,Simply supported,1/1/1998
+B2692,Meiringspoort Causeway no 12,Bridge,Bridge,11/23/2019,TR03304,9.54,Oudtshoorn,29.8,8.6,4,Simply supported,1/1/1998
+B2692A,Meiringspoort Causeway no 13,Bridge,Bridge,11/23/2019,TR03304,9.85,Oudtshoorn,22.95,8.6,4,Simply supported,1/1/1998
+B2693,Meiringspoort Causeway no 14,Bridge,Bridge,11/23/2019,TR03304,10.15,Oudtshoorn,37,8.6,5,Simply supported,1/1/1998
+B2694,Meiringspoort Causeway no 15,Bridge,Bridge,11/23/2019,TR03304,11.05,Oudtshoorn,30.1,8.6,4,Simply supported,1/1/1998
+B2695,MEIRINGSPOORT CAUSEWAY NO. 16,Bridge,Bridge,11/16/2019,TR03304+,11.43,Prince Albert,29.4,8.8,4,Simply supported,1/1/1970
+B2695A,MEIRINGSPOORT CAUSEWAY NO. 17,Bridge,Bridge,11/16/2019,TR03304+,11.7,Prince Albert,28.7,8.8,4,Simply supported,1/1/1970
+B2696,MEIRINGSPOORT CAUSEWAY NO. 18,Bridge,Bridge,11/16/2019,TR03304+,14.1,Prince Albert,34.8,10.6,6,Simply supported,1/1/1970
+B2697,MAIRINGSPOORT CAUSEWAY NO. 19,Bridge,Bridge,11/16/2019,TR03304+,14.97,Prince Albert,29.2,10.7,4,Simply supported,1/1/1970
+B2697A,MEIRINGSPOORT CAUSEWAY NO. 20,Bridge,Bridge,11/16/2019,TR03304+,16.22,Prince Albert,21.5,11,4,Simply supported,1/1/1970
+B2697B,MEIRINGSPOORT CAUSEWAY NO. 21,Bridge,Bridge,11/15/2019,TR03304+,16.99,Prince Albert,20.8,10.7,4,Simply supported,1/1/1970
+B2698,MEIRINGSPOORT CAUSEWAY NO.22,Bridge,Bridge,11/16/2019,TR03304+,18.65,Prince Albert,25.8,10.8,4,Simply supported,1/1/1970
+B2699,MEIRINGSPOORT CAUSEWAY NO. 23,Bridge,Bridge,11/19/2019,TR03304+,18.8,Prince Albert,26.6,11.3,5,Simply supported,1/1/1970
+B2700,MEIRINGSPOORT CAUSEWAY NO. 24,Bridge,Bridge,11/18/2019,TR03304+,19.08,Prince Albert,29.3,10.7,4,Simply supported,1/1/1970
+B2701,MEIRINGSPOORT CAUSEWAY NO. 25,Bridge,Bridge,11/15/2019,TR03304+,19.28,Prince Albert,25.2,11.3,6,Simply supported,1/1/1970
+B2702,VLAKKRAAL RIVER,Bridge,Bridge,11/8/2019,TR03401+,1.29,Prince Albert,40,10.25,6,Simply supported,1/1/1961
+B2703,Gamka  ,Bridge,Bridge,11/12/2019,TR03401+,29,Prince Albert,128,10.6,10,Continuous,1/1/1963
+B2704,Swart ,Bridge,Bridge,11/15/2019,TR03401+,36.3,Prince Albert,90,10.2,9,Simply supported,1/1/1961
+B2705,BRIDGE OVER KUILS RIVER,Bridge,Bridge,11/13/2019,TR03501,0.52,Beaufort West,30,16.7,6,Simply supported,1/1/1962
+B2736,KAT RIVER,Bridge,Bridge,11/11/2019,TR03401+,13.1,Prince Albert,26.8,10.25,4,Simply supported,1/1/1959
+B2781,BRIDGE OVER DRIEHOEKS RIVER,Bridge,Bridge,2/1/2021,TR04401,22.64,George,16,11,2,Simply supported,1/1/1962
+B2782,BRIDGE OVER KLEIN RIVER,Bridge,Bridge,2/1/2021,TR04401,24.57,George,9.2,10.5,1,Simply supported,1/1/1961
+B2783,BRIDGE OVER GROOT RIVER,Bridge,Bridge,2/1/2021,TR04401,30.64,George,48.5,10.7,5,Simply supported,1/1/1961
+B2784,BRIDGE OVER ONGELEGEN RIVER,Bridge,Bridge,2/1/2021,TR04401,33.76,George,18.8,10.2,2,Simply supported,1/1/1961
+B2860,Voechs River No.5,Bridge,Bridge,11/21/2019,TR05901,52.58,George,7.4,9.2,1,Simply supported,1/1/1931
+B2862,BRIDGE OVER UILSHOEKRIVIER,Bridge,Bridge,12/10/2019,TR06501+,7.62,Swellendam,6,9,1,Simply supported,
+B2896,BRIDGE OVER TEEKLOOF RIVER,Bridge,Bridge,11/14/2019,TR07301,37.92,Beaufort West,78.9,10.2,8,Simply supported,1/1/1964
+B2897,BRIDGE OVER SLINGERFONTEIN RIVER,Bridge,Bridge,11/14/2019, TR07301,55.98,Beaufort West,25.2,10.2,3,Simply supported,1/1/1962
+B2898,BRIDGE OVER MUGGELFONTEIN RIVER,Bridge,Bridge,11/14/2019,TR07301,62.88,Beaufort West,12.17,10.1,2,Simply supported,1/1/1961
+B2899, BRIDGE OVER HOEDEMAKERS RIVER,Bridge,Bridge,11/14/2019,TR07301,69.16,Beaufort West,16.2,10.2,2,Simply supported,1/1/1961
+B2900,BRIDGE OVER TEEKLOOF RIVER TRIBUTARY,Bridge,Bridge,11/14/2019,TR07301,71.4,Beaufort West,16.2,10,2,Simply supported,1/1/1961
+B2904,ROAD OVER RAIL AT ZEBRA STATION,Bridge,Bridge,7/30/2020,TR07501+,5.93,Oudtshoorn,6.6,10.5,1,Simply supported,1/1/1956
+B2906,LE ROUX RIVER,Bridge,Bridge,10/3/2020,TR07502+,21.81,Oudtshoorn,33,10.2,5,Simply supported,
+B2907,GROBBELAARS RIVER NO 1,Bridge,Bridge,10/3/2020,TR07502+,23.8,Oudtshoorn,54.3,10.46,8,Simply supported,
+B2908,GROBBELAARS RIVER NO 2,Bridge,Bridge,10/3/2020,TR7502+,27.68,Oudtshoorn,33.5,11.66,5,Simply supported,
+B2917,Berg River Bridge,Bridge,Bridge,11/18/2019,TR07701+,139.33,Bergrivier,52,9,4,Simply supported,1/1/1948
+B2918,Carinus Bridge,Bridge,Bridge,11/18/2019,TR07701,140.49,Bergrivier,140,9,11,Simply supported,1/1/1950
+B2919,KLEIN VETTE RIVER,Bridge,Bridge,11/14/2019,TR08301,2.81,Hessequa,21.1,8.5,3,Simply supported,
+B2921,BRIDGE OVER DIEP RIVER AT MILNERTON (NEW STRUCTURE),Bridge,Bridge,11/7/2019,TR07701,8.58,City of Cape Town (LMB),154.08,13.1,12,Simply supported,1/1/1986
+B2925,Rail over Road near Windemere,Bridge,Bridge,11/20/2019,TR00901,3.99,City of Cape Town (LMB),128,11.5,4,Continuous,
+B2926,Rail Over Road Near Kensington,Bridge,Bridge,11/20/2019,TR00901,5.19,City of Cape Town (LMB),99.8,5.8,4,Continuous,
+B2927,Wingfield interchange no 1,Bridge,Bridge,11/20/2019,TR01101,0,City of Cape Town (LMB),79.4,12.9,6,Continous and simply supported,
+B2927A,Wingfield interchange no 2,Bridge,Bridge,11/20/2019,TR01101,0,City of Cape Town (LMB),79.4,12.9,6,Continous and simply supported,
+B2928,"KROMME RIVER
+",Bridge,Bridge,11/13/2019,MR00027,35.14,Stellenbosch,17.3,36.76,3,Simply supported,1/1/1972
+B2929,"ROAD OVER RAIL AT KLAPMUTS
+",Bridge,Bridge,11/15/2019,MR00027,50.96,Stellenbosch,9.87,13.39,1,Simply supported,1/1/1962
+B2960,ROAD OVER ROAD AND RAIL AT FAURE,Bridge,Bridge,11/17/2020,MR00168,0.3,City of Cape Town (LMB),89.27,13.72,6,Simply supported,1/1/1972
+B2962,"ROAD OVER RAIL AT VLOTTENBURG
+",Bridge,Bridge,11/4/2019,MR00168,8.79,Stellenbosch,13.75,12.39,1,Simply supported,1/1/1964
+B2963A,Diep River at Malmesbury,Bridge,Bridge,11/18/2019,MR00174,3,Swartland,49.6,13.2,5,Simply supported,1/1/1919
+B2968,"ROAD OVER RAIL AT PLANKENBURG
+",Bridge,Bridge,12/2/2019,MR00174,59.5,Stellenbosch,159.61,13.84,7,Simply supported,1/1/1967
+B2970,Road over Rail at Klipheuwel,Bridge,Bridge,11/19/2019,MR00188,26.16,City of Cape Town (LMB),14.3,12.15,1,Simply supported,
+B2972,RAIL OVER ROAD AT VAN WYKS RIVER,Bridge,Bridge - Arch,11/27/2019,MR00191,0.22,Drakenstein,13.2,7.6,1,Arch,
+B2975A,JAN JOUBERTSGAT BRIDGE,Bridge,Bridge - Arch,11/25/2019,MR00191,37.16,Stellenbosch,5.66,10.35,1,Arch,1/1/1825
+B2976C,DU TOITS RIVER BRIDGE,Bridge,Bridge,11/25/2019,MR00191,39.33,Stellenbosch,39.6,8.92,3,Simply supported,1/1/1958
+B2978,ATLANTIS ROAD OVER RAIL,Bridge,Bridge,11/25/2019,MR00199,19.18,City of Cape Town (LMB),45,16.6,3,Simply supported,
+B2979,BREEDE RIVER NO 1,Bridge,Bridge,11/13/2019,MR00201+,14.56,Witzenberg,101,5.2,8,Simply supported,1/1/1926
+B2980,BREEDE RIVER NO 2,Bridge,Bridge,11/13/2019,MR00201+,14.8,Witzenberg,37.1,5.2,3,Simply supported,1/1/1926
+B2983,BORCHARDS BRIDGE,Bridge,Bridge,10/30/2019,MR00201+,22.62,Breede Vallei,12.6,4.8,1,Simply supported,1/1/1924
+B2985,LEEU RIVER,Bridge,Bridge,11/21/2019,MR00201,43.12,Drakenstein,6.2,11.7,1,Simply supported,1/1/1932
+B2986,HUGOS RIVER,Bridge,Bridge,11/21/2019,MR00201,53.8,Drakenstein,24.6,23.2,3,Simply supported,1/1/1954
+B2989,WEMMERSHOEK RIVER,Bridge,Bridge,11/27/2019,MR00201,71.69,Stellenbosch,37.46,7.7,4,Simply supported,1/1/1943
+B2990,ROAD OVER RAIL AT ARBORETUM AVE,Bridge,Bridge,11/20/2019,MR00207,1.4,Drakenstein,10,16.05,1,Simply supported,
+B3006,Bridge over Diep River,Bridge,Bridge,11/18/2019,MR00217,11.07,City of Cape Town (LMB),92.8,6,12,Continous and simply supported,
+B3007,BERG RIVER AT LADY LOCH,Bridge,Bridge,11/26/2019,MR00222,1.41,Drakenstein,183.8,5.2,6,Simply supported,1/1/1910
+B3011,SOUT RIVER AT VOLSTRUISFONTEIN,Bridge,Bridge,11/18/2019,MR00228,3.18,Saldanha Bay,33.3,8.1,4,Simply supported,1/1/1956
+B3012,"KOCHRA RIVER TRIBUTARY NO1
+",Bridge,Bridge,12/4/2019,MR00228,12.19,Swartland,19.8,7.4,3,Simply supported,1/1/1953
+B3013,"KOCHRA RIVER TRIBUTARY NO2
+",Bridge,Bridge,12/4/2019,MR00228,12.63,Swartland,8,12.5,1,Simply supported,1/1/1951
+B3014,"LONG STREET ROAD OVER RAIL
+",Bridge,Bridge,12/5/2019,MR00230,1.5,Swartland,25.5,12.65,3,Simply supported,1/1/1969
+B3015A,Nogo River Bridge (Kotze Bridge),Bridge,Bridge,11/13/2019,MR00230+,1.9,Swartland,24.38,19.98,7,Simply supported,1/1/1969
+B3017,BRIDGE OVER DONKERSKLOOF STREAM,Bridge,Bridge,11/27/2019,MR00236,15.09,Swartland,19.4,9.86,2,Simply supported,1/1/1946
+B3018,SOUT RIVER (HOPEFIELD BRIDGE),Bridge,Bridge,11/20/2019,MR00234,1.27,Saldanha Bay,46.7,8.24,5,Simply supported,1/1/2001
+B3022A,BRIDGE OVER KARS RIVER,Bridge,Bridge,12/6/2019,MR00264+,7.34,Cape Agulhas,19,7,2,Continous and simply supported,
+B3024A,BRIDGE OVER SOUT RIVER,Bridge,Bridge,12/6/2019,MR00264+,22.4,Cape Agulhas,30,10,3,Simply supported,
+B3025,BRIDGE OVER SOERIVIER,Bridge,Bridge,12/8/2019,MR00264+,25.38,Cape Agulhas,24,10,3,Simply supported,1/1/1961
+B3027,BRIDGE OVER SOUT RIVER,Bridge,Bridge,12/8/2019,MR00265+,25.56,Cape Agulhas,19,7.7,3,Simply supported,
+B3031,BRIDGE OVER KLIPDRIFTRIVIER,Bridge,Bridge,12/8/2019,MR00266+,0.22,Cape Agulhas,9,8.5,1,Simply supported,1/1/1950
+B3032,BRIDGE OVER BRAKRIVIER,Bridge,Bridge,12/10/2019,MR00268+,18.32,Swellendam,24,7.6,3,Simply supported,
+B3033,BRIDGE OVER BRAKRIVIER,Bridge,Bridge,12/10/2019,MR00268+,33.43,Swellendam,6,20,1,Simply supported,
+B3035,BRIDGE OVER KINKORIVIER,Bridge,Bridge,12/10/2019,MR00270+,7.38,Swellendam,12,7.8,2,Simply supported,1/1/1959
+B3036,SWART RIVER AT DONKERHOEK,Bridge,Bridge,11/19/2019,MR00277+,3.05,Theewaterskloof,24,8,3,Continous and simply supported,1/1/1957
+B3037,SWART RIVER AT MATJIESDRIF,Bridge,Bridge,11/19/2019,MR00277+,4.55,Theewaterskloof,25,7.6,3,Continuous,1/1/1957
+B3038A,PALMIET RIVER - GRABOUW,Bridge,Bridge,11/27/2019,MR00278,2.15,Theewaterskloof,116.9,10.2,18,Simply supported,1/1/1956
+B3045,PALMIET RIVER AT NUWEBERG ,Bridge,Bridge,11/25/2019,MR00279+,26.9,Theewaterskloof,9.85,10.24,1,Simply supported,1/1/1960
+B3046,PALMIET RIVER AT EIKENHOF,Bridge,Bridge,11/28/2019,MR00279,30.04,Theewaterskloof,12.8,10.2,1,Simply supported,
+B3049,SOUTPANS RIVER,Bridge,Bridge,10/30/2019,MR00282,13.96,Langeberg,6.5,9.5,1,Simply supported,1/1/1999
+B3050,BRIDGE OVER DOORN RIVIER - HEIDELBERG,Bridge,Bridge,11/21/2019,MR00286+,0.92,Hessequa,27,8.22,3,Simply supported,1/1/1938
+B3052,COGMANSKLOOF RIVER,Bridge,Bridge,11/28/2019,MR00287,14.56,Langeberg,97.6,11,5,Simply supported,
+B3053A,BRIDGE OVER  KABOUSRIVIER AT SANDDRIFT,Bridge,Bridge,10/30/2019,MR00287,43.96,Langeberg,16.12,10.4,2,Simply supported,1/1/1961
+B3054,BREEDE RIVER,Bridge,Bridge,11/28/2019,MR0028,5.89,,53,4.9,8,Simply supported,
+B3056A,GROOT RIVER,Bridge,Bridge,11/28/2019,MR00289,4.89,Langeberg,9.5,9.2,1,Simply supported,
+B3057,ROOIBRUG OVER BREEDE,Bridge,Bridge,11/28/2019,MR00289,0.35,Langeberg,122.1,6.3,5,Continuous,1/1/1928
+B3058,BOESMANS RIVER,Bridge,Bridge,11/28/2019,MR00289,10.4,Langeberg,20,10.8,3,Simply supported,1/1/1962
+B3059,ROAD OVER RAIL AT ROBERTSON,Bridge,Bridge,11/18/2019,MR00290,0.19,Langeberg,25,13.3,2,Simply supported,
+B3061,BREEDE RIVER (VICTORIA BRIDGE),Bridge,Bridge,11/18/2019,MR00290,2.2,Langeberg,119.6,7.3,9,Continuous,
+B3062,KEISERS RIVER,Bridge,Bridge,11/18/2019,MR00290,6.64,Langeberg,39,8,3,Simply supported,1/1/1959
+B3063,HOEKS RIVER,Bridge,Bridge,11/17/2019,MR00290,18.32,Langeberg,16,10.5,2,Simply supported,
+B3064,BRIDGE OVER KOO RIVER,Bridge,Bridge,11/1/2019,MR00295,37.88,Langeberg,20,9.4,3,Simply supported,1/1/1964
+B3065,BRIDGE OVER KEISIES RIVER AT HARMONIE,Bridge,Bridge,11/1/2019,MR00295,54.39,Langeberg,13.4,7.4,1,Simply supported,1/1/1944
+B3068,BADS RIVER,Bridge,Bridge,10/30/2019,MR00299+,9.77,Breede Vallei,6.7,9.5,1,Simply supported,1/1/1999
+B3069,ROAD OVER RAIL AT RABIE AVENUE,Bridge,Bridge,11/7/2019,MR00301,1.72,Breede Vallei,34.3,11.8,3,Simply supported,1/1/1987
+B3070,ROAD OVER RAIL AT PROTEA STREET,Bridge,Bridge,11/7/2019,B3070,5.77,Breede Vallei,53.8,12.2,5,Simply supported,1/1/1967
+B3071,HARTEBEEST RIVER BRIDGE,Bridge,Bridge,10/31/2019,MR00302,1.18,Breede Vallei,20.2,7.52,3,Simply supported,1/1/1950
+B3072A,JAN DU TOIT RIVER BRIDGE No.2,Bridge,Bridge,10/31/2019,MR00302,8.2,Breede Vallei,12.1,13.9,2,Simply supported,1/1/1931
+B3073,JAN DU TOIT RIVER BRIDGE NO 1,Bridge,Bridge,11/11/2019,MR00302+,8.68,Witzenberg,30,14.1,3,Simply supported,1/1/1950
+B3075,ROAD OVER RAIL AT DE DOORNS,Bridge,Bridge,10/30/2019,MR00303+,0.23,Breede Vallei,39.89,14,3,Simply supported,1/1/1975
+B3077,KLEINVLEI RIVER,Bridge,Bridge,11/12/2019,MR00310+,39.21,Witzenberg,19.8,8.3,2,Simply supported,1/1/1948
+B3078A,SKILPADRUG RIVER,Bridge,Bridge,11/19/2019,MR00312+,1.17,Witzenberg,14.1,10.27,2,Simply supported,1/1/1961
+B3079,MOULS RIVER,Bridge,Bridge,11/19/2019,MR00312+,7.27,Witzenberg,20,7.35,3,Simply supported,1/1/1950
+B3080,ANTJIESBOS RIVER,Bridge,Bridge,11/19/2019,MR00312+,8.81,Witzenberg,12.85,7.35,1,Simply supported,1/1/1950
+B3082,DOORN RIVER CAUSEWAY,Bridge,Bridge,11/5/2019,MR00316+,41.64,Witzenberg,19.6,7.2,2,Simply supported,1/1/1950
+B3089,GOUKOU RIVER,Bridge,Bridge,11/12/2019,MR00332,25.95,Hessequa,96,8.7,5,Simply supported,1/1/1955
+B3091,VALS RIVER,Bridge,Bridge,11/11/2019,MR00337,11.12,Hessequa,31,8.4,4,Simply supported,1/1/1957
+B3093,GOURITZ RIVER CAUSEWAY,Bridge,Bridge,11/13/2019,MR00342,67.94,Hessequa,51.8,4.26,15,Continous and simply supported,1/1/1955
+B3098,Kaaimans River,Bridge,Bridge - Arch,11/9/2019,MR00355,6.53,George,18.6,5.1,1,Arch,1/1/1904
+B3099,Silver River,Bridge,Bridge - Arch,11/9/2019,MR00355,8.62,George,18.6,5.2,1,Arch,1/1/1903
+B3106,KAMMANASSIE RIVER CAUSEWAY,Bridge,Bridge,11/5/2019,MR00359+,10.23,Oudtshoorn,37.3,4.22,6,Simply supported,1/1/2000
+B3107,KRUIS RIVER NO 1,Bridge,Bridge,11/21/2019,MR00363,3.2,Kannaland,26,10.54,3,Simply supported,1/1/1964
+B3108,GROBBELAARS RIVER NO 1,Bridge,Bridge,11/4/2019,MR00369+,0.84,Oudtshoorn,39.4,10.34,4,Continous and simply supported,
+B3109,GROBBELAARS RIVER NO 2,Bridge,Bridge,11/4/2019,MR00369+,1,Oudtshoorn,39.8,10.78,4,Continous and simply supported,1/1/2000
+B3111,Gamka River Causeway,Bridge,Bridge,11/6/2019,MR00373,37.25,Prince Albert,244,7.3,28,Simply supported,1/1/1959
+B3112,PIESANG RIVER (OTTO DU PLESIS BRIDGE),Bridge,Bridge,11/1/2019,MR00383,2.64,Bitou,32,11.14,3,Cantilever with drop in spans,1/1/1961
+B3125,KROMLAAGTE STREAM,Bridge,Bridge,11/22/2019,MR00404,0.5,George,6.6,10.4,1,Simply supported,1/1/1963
+B3174,De Molen Stream Culvert,Bridge,Bridge,11/20/2019,MR00526+,7.52,Bergrivier,16.4,10.4,2,Simply supported,
+B3175,Bridge over Smits River,Bridge,Bridge,11/20/2019,MR00526+,9.2,Bergrivier,26,13.36,4,Simply supported,1/1/1959
+B3176,Bridge over Hans Byls River,Bridge,Bridge,11/20/2019,MR00526+,15.14,Bergrivier,19.8,10.16,3,Simply supported,1/1/1959
+B3179,Platkloof River Bridge,Bridge,Bridge,11/18/2019,MR00529+,9.63,Bergrivier,29.4,8.4,3,Simply supported,1/1/1957
+B3180,Boesmans River Bridge,Bridge,Bridge,11/18/2019,MR00529,21.18,Bergrivier,39,9.2,4,Simply supported,1/1/1955
+B3183,BERG RIVER AT KERSFONTEIN,Bridge,Bridge,11/18/2019,MR00530+,2.16,Bergrivier,39.2,4.6,3,Simply supported,1/1/1930
+B3184,Waboom River Bridge,Bridge,Bridge,11/19/2019,MR00531+,21.01,Bergrivier,30,7.44,3,Simply supported,1/1/1956
+B3185,Kruismans River at Welbedag,Bridge,Bridge,11/19/2019,MR00531+,44.22,Bergrivier,58,7.3,6,Simply supported,1/1/1951
+B3188,Verlorenvlei River at Redelinghuys,Bridge,Bridge,11/19/2019,MR00534+,45.32,Bergrivier,29.2,8.35,3,Simply supported,1/1/1959
+B3190,KRUISMANS RIVER NEAR HET KRUIS,Bridge,Bridge,11/19/2019,MR00538+,85.85,Bergrivier,50.4,10.2,4,Simply supported,1/1/1960
+B3192,BRIDGE OVER BOONTJIES RIVER,Bridge,Bridge,12/7/2019,MR00539,25.92,Cederberg,58.8,9,6,Simply supported,1/1/1962
+B3193,BRIDGE OVER JAN DISSELS RIVER,Bridge,Bridge,11/13/2019,MR00542,0.33,Cederberg,66.6,10.5,5,Continuous,1/1/1958
+B3196,BRIDGE OVER DORINGSRIVIER,Bridge,Bridge - Arch,12/12/2019,MR00542+,56.97,Cederberg,93,4,8,Arch,
+B3200A,OLIFANTS RIVER AT KLAWER,Bridge,Bridge,11/11/2019,MR00547+,1.66,Matzikama,190.85,10.7,7,Simply supported,1/1/1985
+B3201,OLIFANTS RIVER CANAL AT KAPEL,Bridge,Bridge,11/12/2019,MR00547+,6.85,Matzikama,6.8,9.01,1,Simply supported,1/1/1999
+B3203,OLIFANTS RIVER CANAL AT GRUWEL,Bridge,Bridge,11/12/2019,MR00547+,12.06,Matzikama,8.25,8.96,1,Simply supported,1/1/1999
+B3204,OLIFANTS RIVER CANAL NO 1 AT BOBBEJAANSKRANS,Bridge,Bridge,11/4/2019,MR00547+,16.2,Matzikama,6.9,9.03,1,Simply supported,1/1/1999
+B3205,OLIFANTS RIVER CANAL NO 2 AT BOBBEJAANSKRANZ,Bridge,Bridge,11/4/2019,MR00547+,16.26,Matzikama,6.88,9.08,1,Simply supported,1/1/1999
+B3206,OLIFANTS RIVER CANAL AT DORINGVLEI,Bridge,Bridge,11/8/2019,MR00547+,17.22,Matzikama,7,8.84,1,Simply supported,1/1/1999
+B3207,OLIFANTS RIVER CANAL NO 1 AT KATMAKOEP,Bridge,Bridge,11/6/2019,MR00547+,28.77,Matzikama,7,8.94,1,Simply supported,1/1/1999
+B3208,OLIFANTS RIVER CANAL NO 2 AT KATMAKOEP,Bridge,Bridge,11/6/2019,MR00547+,28.86,Matzikama,8.2,8.94,1,Simply supported,1/1/1999
+B3209,OLIFANTS RIVER CANAL AT DIE KROON,Bridge,Bridge,11/6/2019,MR00547+,31.23,Matzikama,6.9,9.04,1,Simply supported,1/1/1999
+B3210,OLIFANTS RIVER CANAL AT BAKLEIPLAAS,Bridge,Bridge,11/6/2019,MR00547+,33.24,Matzikama,8.2,8.94,1,Simply supported,1/1/1999
+B3212A,OLIFANTS RIVER AT LUTZVILLE,Bridge,Bridge,11/6/2019,MR00547+,41.89,Matzikama,240,10.78,9,Simply supported,1/1/1985
+B3213,KLEIN RIVER,Bridge,Bridge,11/7/2019,MR00548+,1.06,Matzikama,65.2,11,5,Simply supported,1/1/1962
+B3242,BRIDGE OVER KLIPKRAAL STREAM,Bridge,Bridge,11/12/2019,MR00587,11.85,Beaufort West,10.8,8.9,1,,
+B3243,BRIDGE OVER SALT RIVER,Bridge,Bridge,11/12/2019,MR00587,13.69,Beaufort West,38,8.5,2,Simply supported,1/1/1959
+B3274,BRIDGE OVER BUFFELS RIVER,Bridge,Bridge,11/11/2019,MR00607,1.22,Beaufort West,32.8,4.4,5,Continous and simply supported,1/1/1936
+B3403,BREEDE RIVER AT NEKKIES,Bridge,Bridge,11/7/2019,MR00298,2.79,Breede Vallei,528.9,8.8,41,Simply supported,1/1/1954
+B3902,MALMESBURY NORTH INTERCHANGE,Bridge,Bridge,11/2/2005,TR01102,2.44,,56.65,12.35,4,Simply supported,1/1/1963
+B3903,BRIDGE AT PAROW NORTH INTERCHANGE,Bridge,Bridge,11/19/2019,TR00901,11.45,City of Cape Town (LMB),59,12.1,4,Simply supported,
+B3915,ROAD OVER RAIL NEAR BOTHA STATION,Bridge,Bridge,11/14/2019,MR00302+,17.13,Witzenberg,9.8,31.6,1,Simply supported,1/1/1964
+B3916,ROAD OVER RAIL AT VLAKTEPLAAS,Bridge,Bridge,11/8/2019,TR08801+,14.97,Oudtshoorn,26.8,10.4,3,Continous and simply supported,
+B3922,BRIDGE OVER DIPKARIVIER,Bridge,Bridge,12/11/2019,MR00270+,16.17,Swellendam,15.5,10,2,Simply supported,
+B3929,BRIDGE OVER DE HOOP RIVER,Bridge,Bridge,2/1/2021,MR00401,3.27,George,9.7,11.3,1,Simply supported,1/1/1964
+B3945,Klein River,Bridge,Bridge,11/6/2019,TR07301+,4.55,Prince Albert,34.4,10.65,5,Simply supported,1/1/1964
+B3946,OLIFANTS RIVER (PMK LE ROUX BRIDGE),Bridge,Bridge,11/8/2019,TR08801+,15.61,Oudtshoorn,90.9,10.5,5,,
+B3958,GROOT RIVER,Bridge,Bridge,11/8/2019,TR08801+,0.14,Oudtshoorn,29,10.36,3,Simply supported,
+B3962,BRIDGE OVER SOUT KLOOF RIVIER,Bridge,Bridge,12/9/2019, MR00542+,55.17,Cederberg,38,9.8,4,Simply supported,1/1/1961
+B3966,KLAPMUTS RIVER,Bridge,Bridge,12/3/2019,MR00213,14.76,Drakenstein,18.7,11.4,2,Simply supported,1/1/1963
+B3968,RIETVLEI RIVER,Bridge,Bridge,11/7/2001,TR01105,19.28,,14.1,12.95,1,Simply supported,1/1/1963
+B3970,SWARTDOORN RIVER,Bridge,Bridge,8/1/2005,TR01107,28.87,,49,12.95,5,Simply supported,1/1/1962
+B3972,KRUISMANS RIVER AT EENDEKUIL,Bridge,Bridge,11/19/2019,MR00537+,7.91,Bergrivier,37.8,10.6,2,Simply supported,1/1/1966
+B3992,HOUW HOEK RIVER ,Bridge,Bridge,11/21/2019,DR01288+,0.77,Theewaterskloof,18.4,11.25,2,Simply supported,
+B3993,BRIDGE OVER SOUTRIVIER,Bridge,Bridge,12/8/2019,DR01262+,18.63,Cape Agulhas,15.5,10.6,2,Simply supported,
+B3999,TROE-TROE RIVER,Bridge,Bridge,11/7/2019,DR02217+,1.18,Matzikama,39.3,10.6,3,Simply supported,1/1/1964
+B4001,Porterville River Bridge No. 2,Bridge,Bridge,11/20/2019,TR02303+,35.12,Bergrivier,9,18.6,1,Simply supported,1/1/1963
+B4013,BRIDGE OVER MONTE VISTA INTERCHANGE,Bridge,Bridge,11/20/2019,TR00901,8.48,City of Cape Town (LMB),58.5,21.45,4,Simply supported,
+B4016,ROAD OVER RAIL AT NUWEKLOOF,Bridge,Bridge,11/18/2019,TR02201+,1.46,Witzenberg,42.3,10.35,1,Simply supported,1/1/1966
+B4021,BRIDGE OVER KORINGLANDSRIVIER,Bridge,Bridge,12/11/2019,YMR00283,3.28,Swellendam,8.8,14.6,1,Integral bridge,1/1/1960
+B4029,Kapteinskraal River Bridge,Bridge,Bridge,11/18/2019,TR03305+,26.87,Prince Albert,24.8,13,3,Simply supported,1/1/1962
+B4031,"BRIDGE OVER POORT RIVER
+BRIDGE OVER POORT RIVER",Bridge,Bridge,2/1/2021,MR00401,5.37,George,30.9,10.6,3,Simply supported,1/1/1965
+B4033,Traka River Bridge 1,Bridge,Bridge,11/18/2019,TR03305+,21.14,Prince Albert,65.3,12.76,5,Simply supported,1/1/1963
+B4034 (5832),Modderdrift Stream,Bridge,Bridge,11/14/2019,TR03305+,22.62,Prince Albert,9.5,13,1,Simply supported,1/1/1990
+B4035,Droekloof River Bridge No.6,Bridge,Bridge,11/18/2019,TR03305+,10.34,Prince Albert,16.5,12.96,2,Simply supported,1/1/1963
+B4040,Traka River Bridge 2,Bridge,Bridge,11/18/2019,TR03305+,43.39,Prince Albert,40.7,13,6,Simply supported,1/1/1962
+B4042,Groen River at Mamre Flats,Bridge,Bridge,11/7/2019,MR00224,18.25,Swartland,26.75,10.82,4,Simply supported,1/1/1963
+B4048,Dassiedraai River Bridge,Bridge,Bridge,11/18/2019,TR03305+,22.78,Prince Albert,6.7,12.76,1,Simply supported,1/1/1963
+B4084,KLEIN BERG RIVER,Bridge,Bridge,11/18/2019,TR02201+,2.71,Witzenberg,86.4,10.65,5,Simply supported,1/1/1963
+B4087,EENKOKER RIVER,Bridge,Bridge,3/20/2002,TR01107,17.62,,9.9,12.95,1,Simply supported,1/1/1963
+B4094,ROAD OVER RAIL NEAR GOUDA,Bridge,Bridge,11/20/2019,TR02303,0.97,Drakenstein,28,11.05,3,Simply supported,1/1/1966
+B4100,ROAD OVER RAIL NEAR HERMON STATION,Bridge,Bridge,11/22/2019,MR00023,2.17,Drakenstein,16.3,37,1,Simply supported,
+B4101,ROAD OVER RAIL NEAR ELGIN,Bridge,Bridge,11/27/2019,MR00279,34.43,Theewaterskloof,43.17,13.9,3,Simply supported,1/1/1972
+B4102,"ROAD OVER RAIL AT MULDERSVLEI
+",Bridge,Bridge,11/27/2019,MR00174,48.11,Stellenbosch,47,13.65,3,Simply supported,1/1/1969
+B4105,BRIDGE OVER NOORDHOEK RIVER,Bridge,Bridge,11/11/2019, B4105,15.15,Cederberg,29.4,11.2,3,Simply supported,1/1/1964
+B4110,TANQUA RIVER,Bridge,Bridge,11/5/2019,DR02250+,46.01,Witzenberg,76,8.2,6,Continuous,1/1/1965
+B4112,BRIDGE OVER KAMMANASSIE RIVER,Bridge,Bridge,2/1/2021,TR04401,11.67,George,25.8,10.6,2,Simply supported,1/1/1964
+B4113,BRIDGE AT OLD OAK INTERCHANGE,Bridge,Bridge,11/12/2019,TR00901,18.71,City of Cape Town (LMB),88.1,20,4,Continuous,1/1/2007
+B4116,VOELVLEI IRRIGATION CANAL NO 4,Bridge,Bridge,11/20/2019,TR02303,0.83,Drakenstein,10.37,10.7,1,Simply supported,1/1/1963
+B4126,VOELVLEI CANAL,Bridge,Bridge,11/20/2019,DR01455,0.26,Drakenstein,10,10.52,1,Simply supported,1/1/1964
+B4129,Serpentine River,Bridge,Bridge,11/9/2019,MR00352,1.03,George,39.6,10.67,3,Simply supported,1/1/1968
+B4131,BRIDGE OVER GAMKA RIVER,Bridge,Bridge,11/13/2019,TR03305,104.33,Beaufort West,49,12.6,5,Simply supported,1/1/1963
+B4131A,BRIDGE OVER GAMKA RIVER TRIBUTARY  AT BEAUFORT WEST,Bridge,Bridge,11/13/2019,TR03305,104.86,Beaufort West,19.5,12.6,2,Simply supported,1/1/1963
+B4134,WIEDOUWS RIVER,Bridge,Bridge,1/8/2002,TR01105,66.13,,25.8,12.95,2,Simply supported,1/1/1963
+B4135,Charles Searle Brige over Great Brak River,Bridge,Bridge,11/7/2019,MR00348,2.35,Mossel Bay,129.6,10.2,12,Simply supported,1/1/1965
+B4136,ROAD OVER RAIL AT HERMON,Bridge,Bridge,11/26/2019,TR02401,24.17,Drakenstein,45.5,13.6,3,Simply supported,1/1/1969
+B4144,BRIDGE OVER DROE RIVER,Bridge,Bridge,11/14/2019,TR03305,107.92,Beaufort West,17.1,12.7,2,Simply supported,1/1/1964
+B4145,BRIDGE OVER LOMBAARDKRAAL RIVER,Bridge,Bridge,11/13/2019,TR03305,95.75,Beaufort West,25.1,12.7,3,Simply supported,1/1/1964
+B4146, Bridge over Welgersbos River at SV16.55,Bridge,Bridge,11/5/2019,TR07301+,16.55,Prince Albert,79.8,10.35,8,Simply supported,1/1/1966
+B4148,DOORN RIVER BRIDGE,Bridge,Bridge,11/1/2019,DR01347+,11.84,Breede Vallei,40,10.6,2,Simply supported,1/1/1965
+B4149,BRIDGE OVER RAIL AT WELTEVREDEN,Bridge,Bridge,11/14/2019,TR03305,108.5,Beaufort West,13.2,12.6,1,Simply supported,1/1/1968
+B4151,Da Nova Interchange,Bridge,Bridge,11/5/2019,TR03301,6.96,Mossel Bay,28.25,12.8,3,Continuous with drop-in span,1/1/1963
+B4152,ROAD OVER ROAD AT CLANWILLIAM,Bridge,Bridge,11/8/2001,TR01104,96.3,,33.6,13.55,3,Continuous,1/1/1964
+B4155A,Platteklip River,Bridge,Bridge,11/18/2019,MR00224,1,Swartland,18.5,34.8,2,Continuous,
+B4173,ROAD OVER RAIL AT POOLS STATION,Bridge,Bridge,6/26/2001,TR01104,14.81,,18.5,14.3,1,Simply supported,1/1/1968
+B4179,Bridge over Klapmuts River,Bridge,Bridge,11/19/2019,MR00174,35.4,City of Cape Town (LMB),28.9,13.24,3,Simply supported,
+B4180,JA LEEG RIVER,Bridge,Bridge,11/5/2019,MR00547+,55.43,Matzikama,26.55,9.3,4,Simply supported,1/1/1967
+B4183,WILGE RIVER,Bridge,Bridge,11/22/2019,TR08801,46.18,George,20,10.2,2,Simply supported,1/1/1964
+B4189,MALKOPS RIVER,Bridge,Bridge,11/19/2019,DR01459+,1.12,Witzenberg,57.5,10.8,4,Simply supported,1/1/1985
+B4194,BRIDGE OVER DOLFKRAAL RIVER NO 1,Bridge,Bridge,11/14/2019,TR07301,33.91,Beaufort West,53,10.2,8,Simply supported,1/1/1965
+B4196,SOETMELKSVLEI RIVER,Bridge,Bridge,11/11/2019,DR01303,16.45,Theewaterskloof,18.55,10.51,2,Simply supported,
+B4214,"DWARS RIVER AT KYLEMORE
+",Bridge,Bridge,11/19/2019,DR01079,0.24,Stellenbosch,17.2,10.7,1,Simply supported,1/1/1965
+B4217,BRIDGE OVER DOLFKRAAL RIVER NO 2,Bridge,Bridge,11/14/2019,TR07301,33.65,Beaufort West,20,10.2,3,Simply supported,1/1/1965
+B4218,BRIDGE OVER DOLFKRAAL RIVER NO 3,Bridge,Bridge,11/14/2019,TR07301,33.42,Beaufort West,26.6,10.2,4,Simply supported,1/1/1966
+B4224,KNUY RIVER,Bridge,Bridge,11/20/2019,MR00356,1.18,Kannaland,64.5,11,5,Simply supported,1/1/1964
+B4229,TROE-TROE RIVER,Bridge,Bridge,1/8/2002,TR01106,0.03,,58.5,13.1,2,Simply supported,1/1/1965
+B4231,RHENOSTER RIVER,Bridge,Bridge,11/5/2019,DR02250+,68.36,Witzenberg,65,9.1,5,Simply supported,1/1/1968
+B4241A,VARSCH RIVER NO 1,Bridge,Bridge,3/4/2002,TR01106,13.28,,20.1,13.1,4,Simply supported,1/1/1965
+B4241B,VARSCH RIVER NO 2,Bridge,Bridge,7/10/2001,TR01106,13.42,,25.1,13.1,5,Simply supported,1/1/1965
+B4246,BOSMANSDAM INTERCHANGE NO 1,Bridge,Bridge,11/21/2019,TR01101,1.27,City of Cape Town (LMB),64,12.75,4,Simply supported,
+B4247,Refinery Interchange,Bridge,Bridge,11/21/2019,TR01101,4.16,City of Cape Town (LMB),59,13,4,Simply supported,
+B4249,GROOT RIVER,Bridge,Bridge,11/22/2019,MR00356,34.4,Kannaland,99.8,10.64,5,Simply supported,1/1/1965
+B4250,Ratel River Culvert,Bridge,Bridge,11/21/2019,DR01206+,6.32,Overstrand,33,9,6,Frame,
+B4253,KLEIN SWARTBERG RIVER NO 1,Bridge,Bridge,11/28/2019,MR00309,16.59,Laingsburg,15.2,10.92,2,Simply supported,1/1/1965
+B4253A,KLEIN SWARTBERG RIVER NO 2,Bridge,Bridge,11/28/2019,MR00309,16.51,Laingsburg,24.4,11.26,3,Simply supported,1/1/1965
+B4255,KANDELAARS RIVER,Bridge,Bridge,11/6/2019,DR01671+,3.88,Oudtshoorn,38.3,9.34,3,Simply supported,1/1/2000
+B4256,ROAD OVER ROAD AT VANRHYNSDORP,Bridge,Bridge,8/14/2001,TR01106,0.17,,41.4,13.1,3,Simply supported,1/1/1966
+B4258,SOUT RIVER,Bridge,Bridge,7/11/2001,TR01106,25.17,,164.9,13.1,6,Simply supported,1/1/1966
+B4266,Bridge over Boesmans River at SV12.55,Bridge,Bridge,11/5/2019,TR07301+,12.55,Prince Albert,57.5,10.7,7,Simply supported,1/1/1967
+B4268,BRIDGE OVER GATS RIVER,Bridge,Bridge,11/19/2019,TR06501,19.12,Hessequa,34.5,11.6,3,Continuous,1/1/1965
+B4299,Brandwag River,Bridge,Bridge,11/7/2019,TR03301 ,6.96,Mossel Bay,78,10.9,4,Simply supported,1/1/1969
+B4313,KROM RIVER AT ADDYS,Bridge,Bridge,11/21/2019,DR01152,24.2,,13,13.2,1,Simply supported,1/1/1967
+B4315,ROAD OVER RAIL AT ROMANS RIVER,Bridge,Bridge,11/8/2019,MR00201+,8.65,Witzenberg,9.5,37,1,Simply supported,1/1/1968
+B4328,Droekloof River No 5,Bridge,Bridge,11/18/2019,TR03305+,5.19,Prince Albert,20,12.96,2,Simply supported,1/1/1965
+B4329,Droe Kloof River No. 4,Bridge,Bridge,11/14/2019,TR03305+,4.78,Prince Albert,54.2,12.96,5,Simply supported,1/1/1965
+B4330,Droe Kloof River No 3,Bridge,Bridge,11/14/2019,TR03305+,4.37,Prince Albert,25.2,12.96,3,Simply supported,1/1/1965
+B4331,Droe Kloof River No 2,Bridge,Bridge,11/14/2019,TR03305+,3.77,Prince Albert,25,12.96,3,Simply supported,1/1/1965
+B4332,Droe Kloof River No 1,Bridge,Bridge,11/15/2019,TR03305+,3.51,Prince Albert,25,12.96,3,Simply supported,1/1/1965
+B4334,BERG RIVIER,Bridge,Bridge,11/20/2019,MR00207,1.46,Drakenstein,105.2,13.2,4,Simply supported,1/1/1970
+B4340,BONTEHEUWEL PEDESTRIAN OVERPASS,Bridge,Bridge,11/13/2019,TR00201,9.74,City of Cape Town (LMB),138,2.75,9,Continuous,
+B4342,GAMKA RIVER,Bridge,Bridge,11/20/2019,TR03105,40.15,Kannaland,97,13.8,5,Simply supported,1/1/1969
+B4376,OLIFANTS RIVER,Bridge,Bridge,11/6/2019,MR00358+,14.02,Oudtshoorn,237,10.66,16,Simply supported,
+B4379,ROAD OVER RAIL AT EENDEKUIL,Bridge,Bridge,11/19/2019,MR00537+,7.85,Bergrivier,8.92,10.84,1,Simply supported,1/1/1967
+B4380,ROAD OVER RAIL NEAR TROE-TROE,Bridge,Bridge,11/8/2019,MR00548+,2.47,Matzikama,16.4,13.05,1,Simply supported,1/1/1973
+B4388,BRIDGE OVER RAIL AT GRAAFWATER,Bridge,Bridge,11/11/2019,B4388,30.3,Cederberg,10.2,10.3,1,,1/1/1970
+B4406,FIRGROVE INTERCHANGE,Bridge,Bridge,11/11/2019,TR00201,36.12,City of Cape Town (LMB),72.3,18.03,4,Continuous,
+B4411,BRIDGE OVER CONSTANTIA MAIN ROAD - ALPHEN INTERCHANGE,Bridge,Bridge,11/21/2019,MR00106,15.81,City of Cape Town (LMB),47.1,31.1,4,Continuous,
+B4413,KENDAL ROAD INTERCHANGE ON M3,Bridge,Bridge,11/21/2019,MR00106,17,City of Cape Town (LMB),55.4,15.55,4,Continuous,
+B4417,Bridge over Tokai Road (M3),Bridge,Bridge,11/21/2019,MR00106,21.76,City of Cape Town (LMB),49.4,34.24,4,Continuous,
+B4420,Little Brak River,Bridge,Bridge,11/7/2019,MR00344,4.83,Mossel Bay,73.15,6.32,3,Simply supported,1/1/1970
+B4421B,"EERSTE RIVER
+",Bridge,Bridge,11/13/2019,MR00027,33.78,Stellenbosch,22.5,24.12,1,Simply supported,1/1/1967
+B4422A,KOOPMANS RIVER CULVERT,Bridge,Bridge,11/22/2019,TR02302,5.61,Drakenstein,19,16.8,2,Simply supported,1/1/1969
+B4424,TROE-TROE RIVER,Bridge,Bridge,11/7/2019,DR02203+,0.56,Matzikama,39.1,10.5,3,Simply supported,1/1/1973
+B4433,ROAD OVER RAIL AT ORCHARD,Bridge,Bridge,10/31/2019,DR01438+,6.48,Breede Vallei,35,11.2,4,Simply supported,1/1/1970
+B4439,Bill Bezuidenhout Road over Road,Bridge,Bridge,11/20/2019,TR00901,17.4,City of Cape Town (LMB),65.4,25.5,4,Continuous,
+B4456,PHILIPPI ROAD OVERPASS,Bridge,Bridge,11/13/2019,TR00201,16.69,City of Cape Town (LMB),6.5,39.8,1,Simply supported,
+B4462,Rail Over Road at Picaltsdorp,Bridge,Bridge,11/18/2019,MR00349,0.35,George,54.9,13,3,Simply supported,1/1/1972
+B4467,KRUIS RIVER NO 2,Bridge,Bridge,11/21/2019,MR00363,6.28,Kannaland,25.6,10.67,3,Simply supported,1/1/1964
+B4468,GROBBELAARS RIVER,Bridge,Bridge,11/4/2019,DR01693+,0.29,Oudtshoorn,38.6,8.76,3,Simply supported,
+B4469,BRIDGE OVER N1 (ZANDWYK STREET),Bridge,Bridge,11/27/2019,MR00214,0.28,,61.7,11.8,4,Simply supported,1/1/1967
+B4492,BRIDGE OVER KARS RIVER TRIBUTARY,Bridge,Bridge,12/8/2019,DR01230+,0.95,Cape Agulhas,9.5,9,1,Simply supported,
+B4493,Sand River ,Bridge,Bridge,11/15/2019,TR03304+,23.69,Prince Albert,25,11.3,3,Simply supported,1/1/1968
+B4494,OLD CAPE ROAD OVERPASS,Bridge,Bridge,11/14/2019,TR03305,108.61,Beaufort West,6.08,12.4,1,Simply supported,1/1/1968
+B4502,BRIDGE OVER OLIFANTS RIVER,Bridge,Bridge,11/11/2019,MR00310,112.24,Cederberg,30,13.5,5,Simply supported,1/1/1977
+B4502A,BRIDGE OVER OLIFANTS RIVER,Bridge,Bridge,12/8/2019,MR00310,112.39,Cederberg,126.7,13.5,6,Simply supported,1/1/1977
+B4513,BRIDGE OVER OLIFANTS RIVER,Bridge,Bridge,11/13/2019,TR05501,2.4,Cederberg,163.6,9.5,10,Simply supported,1/1/1970
+B4515,SWARTBERG RIVER,Bridge,Bridge,11/18/2019,MR00365,13.1,Kannaland,29.7,10.8,3,Simply supported,1/1/1967
+B4523,BRAND RIVER,Bridge,Bridge,11/21/2019,TR08301,41.22,Kannaland,52.6,11.6,5,Simply supported,1/1/1977
+B4543,BRIDGE OVER KARS RIVER,Bridge,Bridge,12/8/2019,MR00265+,6,Cape Agulhas,38,10.5,3,Simply supported,1/1/1961
+B4544A,KOMPANJIES RIVER,Bridge,Bridge,11/22/2019,MR00023,3.02,Drakenstein,29.4,13.1,3,Simply supported,1/1/1968
+B4545A,"BERG RIVER (LOUW BRIDGE)
+",Bridge,Bridge,12/5/2019,TR02401,22.92,Drakenstein,127,13.1,5,Simply supported,1/1/1969
+B4596,DONKIES RIVER AT VERKEERDEVLEI,Bridge,Bridge,10/29/2019,TR02202+,70.28,Breede Vallei,20,11.3,2,Simply supported,1/1/1968
+B4600A,BRIDGE OVER KARS RIVER,Bridge,Bridge,12/3/2019,DR01226+,21.1,Cape Agulhas,28,11,2,Simply supported,
+B4601,POESJENELS RIVER,Bridge,Bridge,11/29/2019,DR01355,1.76,Langeberg,30,11,3,Simply supported,1/1/1971
+B4607,BRIDGE OVER HEUNINGSNES RIVER,Bridge,Bridge,12/5/2019,MR00261+,17.44,Cape Agulhas,55.5,12,4,Simply supported,
+B4611,BRIDGE OVER GABRIEL STREAM,Bridge,Bridge,11/12/2019,TR01608,46.16,Beaufort West,70,10.3,7,Simply supported,1/1/1968
+B4612,BRIDGE OVER BRAKVALLEI RIVER,Bridge,Bridge,11/12/2019,TR01609,17.45,Beaufort West,58.8,10.3,6,Simply supported,1/1/1968
+B4613,BRIDGE OVER TRIBUTARY BRAKVALLEI RIVER,Bridge,Bridge,11/12/2019,  TR01609,18.92,Beaufort West,20.2,10.2,3,Simply supported,1/1/1969
+B4614,BRIDGE OVER BUFFALO RIVER,Bridge,Bridge,11/11/2019,TR01609,26.94,Beaufort West,70,10.2,3,Continuous,1/1/1969
+B4615,BRIDGE OVER UITKYKSPRUIT RIVER,Bridge,Bridge,11/11/2019,TR01609,39.5,Beaufort West,36.5,10.3,5,Simply supported,1/1/1969
+B4617A,24 RIVERS AT HALFMANSHOF NO 8,Bridge,Bridge,11/20/2019,TR02303,18.83,Drakenstein,21.2,13.2,2,Simply supported,1/1/1979
+B4617B,24 Rivers at Halfmanshof No. 7,Bridge,Bridge,11/20/2019,TR02303+,19.75,Bergrivier,23.8,13.3,2,Simply supported,1/1/1979
+B4617C,24 Rivers at Halfmanshof No. 6,Bridge,Bridge,11/20/2019,TR02303+,19.84,Bergrivier,32.8,13.3,3,Simply supported,1/1/1979
+B4617D,24 Rivers at Halfmanshof No. 5,Bridge,Bridge,11/20/2019,TR02303+,19.9,Bergrivier,24,13.3,2,Simply supported,1/1/1979
+B4617E,24 Rivers at Halfmanshof No. 4,Bridge,Bridge,11/20/2019,TR02303+,20,Bergrivier,63.6,13.3,6,Simply supported,1/1/1979
+B4617F,24 Rivers at Halfmanshof No. 3,Bridge,Bridge,11/20/2019,TR02303+,20.44,Bergrivier,40.8,13.3,3,Simply supported,1/1/1979
+B4621,ROAD OVER RAIL AT VINK RIVER,Bridge,Bridge,11/18/2019,TR03101,36.42,Langeberg,16.8,14.26,1,Simply supported,1/1/1969
+B4641,ROAD OVER RAIL NEAR BOONTJIESKRAAL,Bridge,Bridge,1/1/2000,MR00276,1.67,Theewaterskloof,,,0,,
+B4669,KNUY RIVER,Bridge,Bridge,11/21/2019,TR08301,66.85,Kannaland,90,10.8,9,Simply supported,1/1/1970
+B4674,ROAD OVER RAIL AT GOUDINI STATION,Bridge,Bridge,11/11/2019,MR00299+,1.16,Witzenberg,42.6,12.4,3,Simply supported,1/1/1970
+B4676,PROPOSED BRIDGE OVER BEESJES FONTEIN SPRUIT,Bridge,Bridge,1/1/2000,DR01171,13.49,Swartland,,,0,,
+B4677,SMALBLAAR RIVER,Bridge,Bridge,11/26/2019,MR00298+,14.43,Breede Vallei,231,12.6,24,Simply supported,1/1/1970
+B4691,BRIDGE OVER OLIFANTS RIVER,Bridge,Bridge,11/5/2019,TR07501+,30.02,Oudtshoorn,222.8,13.12,9,Simply supported,
+B4693,Klein Swart River,Bridge,Bridge,11/9/2019,MR00355,3.33,George,20,10.6,2,Simply supported,1/1/2000
+B4694A,VINK RIVER,Bridge,Bridge,11/18/2019,TR03101,35.81,Langeberg,29,13.4,2,Simply supported,1/1/1953
+B4704,ROAD OVER RAIL AT BREERIVIER STATION,Bridge,Bridge,11/14/2019,DR01434+,0.51,Witzenberg,41.15,11.3,4,Simply supported,1/1/1972
+B4706,BRIDGE OVER KAMMANASSIE RIVER,Bridge,Bridge,11/5/2019,DR01673+,11.08,Oudtshoorn,112.4,11.32,7,Simply supported,
+B4708,KRUIS RIVER NO 3,Bridge,Bridge,11/21/2019,MR00363,7.83,Kannaland,32.7,11.42,3,Simply supported,1/1/1969
+B4718,BRIDGE AT WOETJIES KLOOF,Bridge,Bridge,2/1/2021,TR08801,65.17,George,19.4,11.5,2,Simply supported,1/1/1970
+B4728,BRIDGE OVER GAMKA RIVER,Bridge,Bridge,11/13/2019,TR05801,5.8,Beaufort West,29.8,10.2,3,Simply supported,1/1/1970
+B4735,SOUT RIVER,Bridge,Bridge,11/20/2019,TR02102+,0.04,Saldanha Bay,48.3,13.46,3,Simply supported,
+B4736,ROAD OVER RAIL AT HOPEFIELD,Bridge,Bridge,11/20/2019,TR02101,53.22,Saldanha Bay,9.3,13.3,1,Simply supported,
+B4737,SWARTBERG RIVER,Bridge,Bridge,11/20/2019,DR01702,7.64,Kannaland,28.5,9.7,3,Simply supported,1/1/1971
+B4740,KARMENATJIES RIVER,Bridge,Bridge,11/19/2019,TR02101,43.84,Saldanha Bay,13.9,14.1,2,Simply supported,1/1/1949
+B4742,SKAAP RIVER,Bridge,Bridge,11/7/2019,DR01452+,1.58,Witzenberg,36.9,11.8,3,Simply supported,1/1/1971
+B4743,Road over Rail at Little Brak,Bridge,Bridge,11/7/2019,MR0345,0.73,Mossel Bay,36,12.1,3,Simply supported,1/1/1981
+B4744,ROAD OVER RAIL AT GOEDEHOOP,Bridge,Bridge,11/15/2019,TR02102,24.96,Saldanha Bay,31.5,13.4,2,Simply supported,1/1/1971
+B4747,BITOU RIVER,Bridge,Bridge,11/1/2019,MR00395,7.09,Bitou,39,11.4,3,Simply supported,1/1/1970
+B4750,Road over road at Somerset West,Bridge,Bridge,11/11/2019,TR00201,40.29,City of Cape Town (LMB),26.6,27.89,1,Simply supported,
+B4764,Uilenkraals,Bridge,Bridge,12/2/2019,MR00028+,7.06,Overstrand,91,12,7,Simply supported,1/1/1971
+B4774,BUFFELS RIVER NO 1,Bridge,Bridge,11/22/2019,TR08303,24.72,Laingsburg,184.65,11.58,11,Simply supported,
+B4775,WATERFALLS RIVER,Bridge,Bridge,11/15/2019,MR00313+,3.48,Witzenberg,51.4,11.6,4,Simply supported,1/1/1974
+B4781,VETTE RIVER,Bridge,Bridge,11/18/2019,TR08301,9.08,Hessequa,64,11.6,4,Simply supported,
+B4782,DOORNKLOOF RIVER NO 1,Bridge,Bridge,11/21/2019,TR08301,59.14,Kannaland,30,11.3,3,Simply supported,1/1/1972
+B4786,Road over rail near Hopefield,Bridge,Bridge,11/18/2019,TR02101,7.17,Swartland,40.5,13.4,3,Simply supported,1/1/1971
+B4794,THE DRAAIBERG BRIDGE,Bridge,Bridge,10/24/2019,MR00279+,8.02,Theewaterskloof,503,13.4,13,Continuous,
+B4812,ROAD OVER RAIL NEAR VREDENDAL,Bridge,Bridge,1/1/2000,TR01601,,,,,0,,
+B4813,ROAD OVER RAIL AT KLAWER,Bridge,Bridge,1/1/2000,MR00547,1.29,Matzikama,,,0,,
+B4816,ROAD OVER RAIL NEAR KLAWER,Bridge,Bridge,1/1/2000,MR00548,15.8,Matzikama,,,0,,
+B4817,RIETPOEL STREAM,Bridge,Bridge,11/12/2019,MR00267+,39.47,Theewaterskloof,16.8,11.7,2,Simply supported,1/1/1972
+B4818,ROAD OVER RAIL AT RIETPOEL,Bridge,Bridge,11/12/2019,MR00267+,40.02,Theewaterskloof,32.2,11.6,3,Simply supported,
+B4825,OLIFANTS RIVER AT DYSSELDORP,Bridge,Bridge,11/5/2019,MR00369+,1.11,Oudtshoorn,160.2,11.4,9,Simply supported,
+B4828,DORING RIVER,Bridge,Bridge,11/12/2019,MR00544+,8.29,Matzikama,129.9,5.59,5,Simply supported,1/1/1981
+B4831,BRIDGE OVER GROOTVADERSBOSRIVIER,Bridge,Bridge,12/11/2019,TR06501+,15.91,Swellendam,37,11,3,Cantilever with drop in spans,
+B4837,GROOT RIVER,Bridge,Bridge,11/21/2019,TR08301,57.49,Kannaland,105,11.4,8,Simply supported,1/1/1974
+B4838,DOORNKLOOF RIVER NO 2,Bridge,Bridge,11/21/2019,TR08301,57.61,Kannaland,26,11.4,2,Simply supported,1/1/1974
+B4841,Road over rail at Porterville,Bridge,Bridge,11/20/2019,TR02303+,33.16,Bergrivier,10.8,13.16,1,Simply supported,1/1/1979
+B4863,KROM RIVER,Bridge,Bridge,11/21/2019,DR01413,4.08,Drakenstein,14.8,12.1,1,Simply supported,1/1/1973
+B4879,Road over road,Bridge,Bridge,11/25/2019,MR00027,20.15,City of Cape Town (LMB),51.6,13.78,4,Simply supported,
+B4896,Road over rail at Piketberg,Bridge,Bridge,11/19/2019,TR02303,60.14,Bergrivier,44,14.08,4,Simply supported,
+B4902,BERG RIVER,Bridge,Bridge,11/22/2019,MR00027,72.86,Drakenstein,338.4,13.6,12,Simply supported,1/1/1975
+B4940,HUIS RIVER NO 1,Bridge,Bridge,11/19/2019,TR03105,37.53,Kannaland,50.4,13.54,3,Simply supported,1/1/1973
+B4941,HUIS RIVER NO 2,Bridge,Bridge,11/19/2019,TR03105,39.69,Kannaland,46,13.54,3,Simply supported,1/1/1975
+B4942,NELS RIVER,Bridge,Bridge,11/20/2019,TR03105,47.87,Kannaland,46,13.24,3,Simply supported,1/1/1976
+B4943,VLEI RIVER,Bridge,Bridge,11/21/2019,TR03106,19.46,Kannaland,38.5,13.32,3,Simply supported,1/1/1974
+B4944,BRIDGE OVER WYNANDS RIVER,Bridge,Bridge,11/6/2019,TR03106+,36.45,Oudtshoorn,45,13.24,3,Simply supported,1/1/2000
+B4945,KANSA RIVER CULVERT,Bridge,Bridge,11/6/2019,TR03106+,39.87,Oudtshoorn,30.4,13.3,6,Simply supported,
+B4946,EERSTE RIVER,Bridge,Bridge,11/11/2019,TR00201,31.74,City of Cape Town (LMB),51.3,25.6,3,Continuous,
+B4947,MODDERGAT RIVER,Bridge,Bridge,11/11/2019,TR00201,35.85,City of Cape Town (LMB),13.3,25.6,2,Continuous,
+B4948,ROAD OVER RAIL AT FIRGROVE,Bridge,Bridge,11/11/2019,TR00201,37.31,City of Cape Town (LMB),21,28.3,2,Simply supported,
+B4949,BRIDGE OVER LOURENS RIVER,Bridge,Bridge,11/11/2019,TR00201,42.79,City of Cape Town (LMB),33.2,26.2,5,Simply supported,1/1/1974
+B4950,VAN DER STEL INTERCHANGE,Bridge,Bridge,11/12/2019,TR00202,1.41,City of Cape Town (LMB),61.5,29.56,5,Continous and simply supported,1/1/1972
+B4951,SIR LOWRYS PASS RIVER AT FIRLANDS,Bridge,Bridge,11/12/2019,TR00202,5.94,City of Cape Town (LMB),53.6,31.56,4,Simply supported,1/1/1974
+B4973,BERG RIVER,Bridge,Bridge,2/3/2004,TR01103,23.09,,159,13.4,5,Continuous,1/1/1978
+B4974,ROAD OVER RAIL AT DE HOEK,Bridge,Bridge,1/30/2002,TR01103,28.68,,46.5,16.6,3,Simply supported,1/1/1978
+B4975,KROM RIVER AT BLINDEFONTEIN,Bridge,Bridge,2/4/2004,TR01104,23.64,,39.9,13.4,3,Simply supported,1/1/1979
+B4984,Diep River No. 1,Bridge,Bridge,11/22/2019,TR01101,10.88,City of Cape Town (LMB),153,11.6,10,Continuous,
+B4984A,Diep River No.2,Bridge,Bridge,11/22/2019,TR01101,10.89,City of Cape Town (LMB),153,11.6,10,Continuous,
+B4985,SALT RIVER,Bridge,Bridge,1/6/2004,TR01101,31.08,,19.5,11.6,3,Simply supported,1/1/1979
+B4986,GREEN RIVER,Bridge,Bridge,7/12/2001,TR01101,36.54,,45.8,11.6,8,Simply supported,1/1/1979
+B4987,ROAD OVER RAIL AT KALBASKRAAL,Bridge,Bridge,7/13/2001,TR01101,37.65,,6.9,11,1,Simply supported,1/1/1979
+B4988,DIEP RIVER TRIBUTARY,Bridge,Bridge,7/13/2001,TR01101,49.35,,13.4,10.85,2,Simply supported,1/1/1979
+B4989,ROAD OVER RAIL AT MALMESBURY,Bridge,Bridge,7/13/2001,TR01101,49.77,,7.8,15.3,1,Simply supported,1/1/1957
+B5003,ELANDS RIVER,Bridge,Bridge,11/1/2019,TR03002,0.4,Theewaterskloof,15.33,12.9,1,Simply supported,1/1/1974
+B5006,HOLSLOOT RIVER,Bridge,Bridge,11/7/2019,MR00298+,13.51,Breede Vallei,52.4,10.6,4,Simply supported,1/1/1973
+B5007,TOUW RIVER,Bridge,Bridge,1/17/2003,TR08301,54,Kannaland,211,11.6,10,Simply supported,1/1/1980
+B5009,ROAD OVER ROAD/RAIL AT DE WET STASIE,Bridge,Bridge,10/31/2019,DR01400+,21.89,Breede Vallei,129,12.1,6,Simply supported,1/1/1972
+B5026,ROAD OVER RAIL AT TULBAGH STATION,Bridge,Bridge,11/15/2019,MR00323+,0.39,Witzenberg,36.65,13.2,3,Simply supported,1/1/1975
+B5028,ROAD OVER RAIL AT MATROOSBERG,Bridge,Bridge,10/29/2019,MR00295+,3.76,Breede Vallei,33.5,12.6,1,Simply supported,1/1/1975
+B5031,SAND RIVER,Bridge,Bridge,11/26/2019,TR02501,17.57,Drakenstein,21.6,13.6,2,Simply supported,1/1/1973
+B5032,BOT RIVER,Bridge,Bridge,11/26/2019,TR02501,18.83,Drakenstein,22,13.4,2,Simply supported,1/1/1978
+B5033,DIEP RIVER AT DE GRENDAL,Bridge,Bridge,11/6/2019,TR02501,33.83,Swartland,16.4,13.82,2,Simply supported,1/1/1980
+B5034,HOL RIVER,Bridge,Bridge,11/6/2019,MR00552+,6.71,Matzikama,49,15.65,5,Simply supported,1/1/1945
+B5043,"OLIFANTSKUIL RIVER
+",Bridge,Bridge,12/9/2019,"TR02101
+",23.64,Swartland,25.2,13.41,5,Simply supported,1/1/1972
+B5044,Geelkuil River Bridge,Bridge,Bridge,12/9/2019,TR02101+,28.61,Swartland,20.27,13.41,3,Simply supported,1/1/1973
+B5046,Road over Rail Skimmelkrans,Bridge,Bridge,11/8/2019,MR00347,13.82,George,16.7,13.4,1,Simply supported,1/1/1983
+B5090,WAPADSKLOOF RIVER,Bridge,Bridge,11/21/2019,TR08301,52.91,Kannaland,22,11.7,4,Simply supported,1/1/1974
+B5104,BRIDGE OVER SALT RIVER,Bridge,Bridge,11/7/2019,TR07701,26.3,City of Cape Town (LMB),32,13.46,2,Simply supported,1/1/1976
+B5105,"BRIDGE OVER MODDER RIVER
+",Bridge,Bridge,12/4/2019,TR07701,55.99,Swartland,80,13.4,5,Simply supported,1/1/1976
+B5106,ROAD OVER RAIL AT LANGEENHEID,Bridge,Bridge,11/15/2019,TR07701,121.52,Saldanha Bay,83.5,13.8,5,Simply supported,1/1/1976
+B5109,Parow North interchange no 2,Bridge,Bridge,11/19/2019,TR00901,11.39,City of Cape Town (LMB),69.3,14.9,4,Simply supported,
+B5110,ROAD OVER RAIL NEAR WELLINGTON,Bridge,Bridge,11/21/2019,MR00027,75.1,Drakenstein,38.6,13.6,4,Simply supported,1/1/1973
+B5111,BREEDE RIVER NO 1,Bridge,Bridge,11/1/2019,TR03002,35.77,Breede Vallei,95.95,12.34,3,Simply supported,
+B5111A,BREEDE RIVER NO 2,Bridge,Bridge,11/1/2019,TR03002,35.55,Breede Vallei,165,12.34,5,Simply supported,1/1/1980
+B5112,SKAAP RIVER AT CASCADE,Bridge,Bridge,11/11/2019,DR01453+,1.42,Witzenberg,33,12.9,3,Simply supported,1/1/1975
+B5119,ROAD OVER RAIL  AT WELLINGTON STATION,Bridge,Bridge,11/22/2019,MR00219,0.1,Drakenstein,84.6,11.1,8,Simply supported,1/1/1974
+B5132,"BRIDGE OVER DWARS RIVER
+",Bridge,Bridge,12/4/2019,TR07701,63.59,Swartland,26.2,18.2,6,Cellular,1/1/1974
+B5133,DROOGE ZEE RIVER,Bridge,Bridge,11/21/2019,TR08301,48.06,Kannaland,42,11.8,4,Simply supported,1/1/1975
+B5135A,BREEDE RIVER,Bridge,Bridge,10/30/2019,MR00282,18.04,Langeberg,209.2,15.4,8,Continuous,1/1/1976
+B5137,Rooi Els River,Bridge,Bridge,11/26/2019,TR02701+,38.4,Overstrand,39,12.6,4,Continuous,1/1/1989
+B5139,BOT RIVER,Bridge,Bridge,11/29/2019,TR02801+,10.7,Overstrand,140,13.6,7,Simply supported,1/1/1981
+B5140,AFDAKS RIVER,Bridge,Bridge,12/2/2019,TR02801+,15.5,Overstrand,70,13.6,3,Continuous,1/1/1981
+B5141,ONRUST RIVER,Bridge,Bridge,12/3/2019,TR02801+,26.4,Overstrand,70,13.6,3,Continuous,
+B5148,ROAD OVER RAIL AT EENZAAMHEID,Bridge,Bridge,11/15/2019,TR02102,30.73,Saldanha Bay,32.8,13.1,3,Simply supported,1/1/1974
+B5149,ROAD OVER RAIL (SALDANHA-SISHEN LINE),Bridge,Bridge,11/12/2019,MR00533,2.36,Saldanha Bay,7.35,13.3,1,Integral bridge,1/1/2001
+B5150,ROAD OVER RAIL AT OLIFANTSKRAAL,Bridge,Bridge,12/8/2019,TR07701,134.02,Saldanha Bay,7.2,43,1,Integral bridge,1/1/2001
+B5151,Road over rail at Kliphoek,Bridge,Bridge,11/18/2019,MR00234+,35.96,Bergrivier,6.7,12.8,1,Frame,1/1/1974
+B5152,Rail bridge East of Velddrif,Bridge,Bridge,11/18/2019,MR00529+,54.14,Bergrivier,6.7,28,1,Simply supported,1/1/1974
+B5153,Road over rail at Sewevlei,Bridge,Bridge,11/19/2019,OP07826+,2.3,Bergrivier,7.2,9.5,1,Frame,1/1/1976
+B5154,Road over rail at Helenafontein,Bridge,Bridge,11/19/2019,MR00535+,24.52,Bergrivier,7.7,9.2,1,Frame,1/1/1973
+B5155,Road over rail at Bottelfontein,Bridge,Bridge,11/19/2019,MR00535+,38.72,Bergrivier,7.2,9.45,1,Frame,1/1/1973
+B5156,BRIDGE OVER RAIL AT VERLORENVLEI,Bridge,Bridge,11/14/2019,MR00535,56.28,Cederberg,7,9.2,1,Simply supported,1/1/1973
+B5157,BRIDGE OVER RAIL AT STEENBOKFONTEIN,Bridge,Bridge,11/14/2019, MR00538,11.3,Cederberg,6.4,12.9,1,Simply supported,1/1/1973
+B5158,BRIDGE OVER RAIL AT LAMBERTS BAY,Bridge,Bridge,11/14/2019,TR05501,59.56,Cederberg,8.3,13.2,1,Integral bridge,1/1/1973
+B5159, BRIDGE OVER RAIL AT LAMBERTS BAY,Bridge,Bridge,11/14/2019,TR05501,59.6,Cederberg,6.4,9.8,1,Integral bridge,1/1/1973
+B5160,ROAD OVER RAIL AT DORING BAAI,Bridge,Bridge,11/5/2019,MR00546+,16.87,Matzikama,9,17.5,1,Simply supported,1/1/1977
+B5218,BUFFELS RIVER NO 2,Bridge,Bridge,11/25/2019,TR08303,4.34,Laingsburg,111.3,11.85,6,Simply supported,1/1/1975
+B5224,BREEDE RIVER CHANNEL NO 1,Bridge,Bridge,11/8/2019,MR00305+,5.99,Witzenberg,122,13.5,14,Simply supported,1/1/1976
+B5225,BREEDE RIVER CHANNEL NO 2,Bridge,Bridge,11/8/2019,MR00305+,5.55,Witzenberg,105,13.5,12,Simply supported,1/1/1979
+B5228,VINKNES RIVER,Bridge,Bridge,11/4/2019,MR00363+,29.26,Oudtshoorn,13.8,11.04,1,Simply supported,
+B5232,Tierberg Road over Road,Bridge,Bridge,11/18/2019,TR00901,12.86,City of Cape Town (LMB),14.1,42,1,Simply supported,
+B5233,Karl Bremer Interchange,Bridge,Bridge,11/18/2019,TR00901,13.93,City of Cape Town (LMB),26.8,38.4,2,Simply supported,
+B5234,Lincoln street road over road,Bridge,Bridge,11/18/2019,TR00901,14.66,City of Cape Town (LMB),42.7,12.6,2,Simply supported,1/1/1974
+B5236,Durban Road Interchange No.1,Bridge,Bridge,11/20/2019,TR00901,16.16,City of Cape Town (LMB),64.1,16.8,4,Simply supported,
+B5237,Durban Road Interchange No.2,Bridge,Bridge,11/20/2019,TR00901,16.25,City of Cape Town (LMB),64,16.8,4,Simply supported,
+B5245,EGGAS RIVER,Bridge,Bridge,11/13/2019,MR00337,27.64,Hessequa,17.4,11.6,1,Simply supported,1/1/1977
+B5246,BREEDE RIVER AT WYZERSDRIFT,Bridge,Bridge,10/30/2019,MR00299+,4.29,Breede Vallei,379.8,13.06,18,Simply supported,1/1/1979
+B5271,GROOT RIVER CAUSEWAY NO 1,Bridge,Bridge,11/12/2019,DR01487+,71.82,Witzenberg,42.8,5,15,Simply supported,1/1/1979
+B5271A,GROOT RIVER CAUSEWAY NO 2,Bridge,Bridge,11/12/2019,DR01487+,71.95,Witzenberg,96.8,5,12,Simply supported,1/1/1979
+B5295,BRIDGE OVER THE KUILS RIVER,Bridge,Bridge,1/1/2000,MR00187,0.38,,,,3,,
+B5299,Stellenbosch Arterial Interchange No.1,Bridge,Bridge,10/31/2019,MR00177,13.71,City of Cape Town (LMB),59.5,17.23,4,Simply supported,
+B5299A,Stellenbosch Arterial Interchange No.2,Bridge,Bridge,10/31/2019,MR00177,13.72,City of Cape Town (LMB),59.5,17.23,4,Simply supported,
+B5301,Road over Rail at Glentana,Bridge,Bridge,11/8/2019,MR00348,14.26,George,13.75,13.8,1,Simply supported,1/1/1975
+B5313,MR00358+,Bridge,Bridge,11/6/2019,MR00358+,15.91,Oudtshoorn,16.2,11.6,1,Simply supported,
+B5317,DIEP RIVER AT DE GRENDAL,Bridge,Bridge,11/6/2019,DR01139,0.22,Swartland,27.8,11.56,3,Continuous,1/1/1976
+B5321,Lamloch Stream Culvert,Bridge,Bridge,11/5/2019,TR02701+,7.12,Overstrand,9,14.75,1,,
+B5322,HUIS RIVER NO 1,Bridge,Bridge,11/19/2019,DR01711,3.36,Kannaland,31.5,10,3,Simply supported,1/1/1978
+B5325,Parrow west Road over Road and Rail,Bridge,Bridge,11/19/2019,TR00901,9.51,City of Cape Town (LMB),157.3,31.8,6,Continous and simply supported,
+B5336,KLEINSWARTBERG RIVER,Bridge,Bridge,1/1/2000,TR08302,0,,,,0,,1/1/1977
+B5337,BUFFELS RIVER,Bridge,Bridge,1/1/2000,TR08302,0,,,,0,,1/1/1977
+B5338,BUFFELS RIVER NO 2,Bridge,Bridge,1/1/2000,TR08302,0,,,,0,,1/1/1977
+B5339,BUFFELS RIVER NO 3,Bridge,Bridge,1/1/2000,TR08302,0,,,,0,,1/1/1977
+B5340,BUFFELS RIVER NO 4,Bridge,Bridge,1/1/2000,TR08302,0,,,,0,,1/1/1977
+B5341,BUFFELS RIVER NO 5,Bridge,Bridge,1/1/2000,TR08302,0,,,,0,,1/1/1977
+B5342,POORT RIVER,Bridge,Bridge,1/1/2000,TR08302,0,,,,0,,1/1/1977
+B5343,VEELANDSLAAGTE RIVER,Bridge,Bridge,1/1/2000,TR08302,0,,,0,2,Continuous,1/1/1977
+B5349,BRANDVLEI CANAL 2,Bridge,Bridge,11/26/2019,MR00298+,8.26,Breede Vallei,25.4,12.76,1,Simply supported,1/1/1977
+B5350,NUY RIVER BRIDGE,Bridge,Bridge,11/1/2019,TR03002,37.85,Breede Vallei,66,13.4,4,Simply supported,1/1/1980
+B5351,HEX RIVER CHANNEL NO 2,Bridge,Bridge,7/31/2002,TR03002,43.67,Breede Vallei,10.8,13.3,1,Simply supported,1/1/1980
+B5351,HEX RIVER CHANNEL NO 2,Bridge,Bridge,11/1/2019,TR03002+,43.67,Breede Vallei,10.8,13,1,Simply supported,1/1/1980
+B5351A,HEX RIVER CHANNEL NO 3,Bridge,Bridge,11/1/2019,TR03002+,43.72,Langeberg,21.6,13,2,Simply supported,1/1/1976
+B5351B,HEX RIVER CHANNEL NO 4,Bridge,Bridge,11/1/2019,TR03002+,43.8,Breede Vallei,31.8,13,3,Simply supported,1/1/1980
+B5351C,HEX RIVER CHANNEL NO 5,Bridge,Bridge,11/1/2019,TR03002+,43.89,Breede Vallei,42.2,13,4,Simply supported,1/1/1980
+B5359,KLEIN SWARTBERG RIVER,Bridge,Bridge,11/19/2019,TR08302,6.73,Kannaland,42.6,11.6,4,Simply supported,1/1/1979
+B5360,ROAD OVER RAIL NEAR WINKELPLAAS,Bridge,Bridge,1/1/2000,TR08302,0,,,,0,,
+B5370,ROAD OVER RAIL NEAR SALCOR,Bridge,Bridge,11/14/2019,TR08501,4.89,Saldanha Bay,61,13.8,3,Simply supported,
+B5388,BRANDVLEI CANAL 1,Bridge,Bridge,11/26/2019,MR00298+,8.94,Breede Vallei,22.15,13.4,1,Simply supported,1/1/1976
+B5398,GOURITS RIVER (DIE POORT BRIDGE),Bridge,Bridge,11/13/2019,MR00337,33.37,Mossel Bay,168,11.6,8,Simply supported,1/1/1978
+B5400,HUIS RIVER NO 2,Bridge,Bridge,11/19/2019,DR01711,3.96,Kannaland,10.5,10,1,Simply supported,1/1/1979
+B5402,Bloemendal River,Bridge,Bridge,11/15/2019,TR03402+,36.41,Prince Albert,16.5,11.6,1,Simply supported,1/1/1978
+B5403,Groot River Bridge,Bridge,Bridge,11/15/2019,TR03402+,36.97,Prince Albert,49.5,11.6,3,Simply supported,1/1/1979
+B5425,BRIDGE OVER LEEURIVIER,Bridge,Bridge,12/11/2019,TR03201+,33.13,Swellendam,21.3,13.1,2,Simply supported,
+B5436,BRIDGE OVER KLIPRIVIER,Bridge,Bridge,12/11/2019,TR03201+,42.62,Swellendam,24,13.4,3,Simply supported,
+B5456,ROOI RIVER,Bridge,Bridge,11/22/2019,TR08801,30.16,George,15.8,11.7,1,Simply supported,1/1/1978
+B5475,DORING RIVER NO 1,Bridge,Bridge,1/1/2000,MR00319,79.69,City of Cape Town (LMB),,,0,,
+B5475A,DORING RIVER NO 2,Bridge,Bridge,1/1/2000,MR00319,79.99,City of Cape Town (LMB),,,0,,
+B5475B,DORING RIVER NO 3,Bridge,Bridge,1/1/2000,MR00319,80.3,City of Cape Town (LMB),,,0,,
+B5485,BRIDGE OVER LANGHUIS RIVER,Bridge,Bridge,11/13/2019, MR00544,42.67,Cederberg,16,9.4,1,Simply supported,1/1/1980
+B5490,GROOT RIVER,Bridge,Bridge,11/19/2019,TR08302,15.56,Kannaland,90,10.7,7,Continuous,1/1/1982
+B5498,BRIDGE OVER KORINGLANDSRIVIER,Bridge,Bridge,12/11/2019,TR03201+,44.67,Swellendam,15,17.6,1,Integral bridge,1/1/1980
+B5501,MODDERDAM INTERCHANGE NO2,Bridge,Bridge,11/12/2019,TR00201,10.38,City of Cape Town (LMB),52.6,12.6,4,Simply supported,
+B5503,OLIFANTS RIVER AT BARANDAS,Bridge,Bridge,11/22/2019,MR00404,0.52,George,128.2,10.4,10,Simply supported,1/1/1963
+B5506,RIVIERSONDEREND NEAR GENADENDAL,Bridge,Bridge,11/4/2019,MR00277+,24.94,Theewaterskloof,107.5,10.8,8,Continous and simply supported,
+B5510,SKAAP RIVER,Bridge,Bridge,11/13/2019,MR00310+,8.58,Witzenberg,27.4,10.94,4,Simply supported,1/1/1988
+B5527,Diep River,Bridge,Bridge,11/9/2019,MR00355,25.32,George,60.1,10.7,3,Continuous,1/1/1982
+B5530,ROAD OVER RAIL NEAR SOETENDAL,Bridge,Bridge,11/22/2019,DR01143,1.39,Drakenstein,17,10.4,1,Simply supported,1/1/1980
+B5531,KOMPAGNIES RIVER,Bridge,Bridge,11/22/2019,DR01143,3.51,Drakenstein,33,10.7,3,Continuous,1/1/1980
+B5532,OPSOEK RIVER,Bridge,Bridge,11/22/2019,MR00356,25.11,Kannaland,25.6,10.68,3,Simply supported,1/1/1979
+B5533,ROAD OVER RAIL AT CALEDON,Bridge,Bridge,11/19/2019,TR02901+,1.54,Theewaterskloof,15.5,14.6,1,Simply supported,1/1/1984
+B5534,STEENBOKS RIVER ,Bridge,Bridge,11/20/2019,TR02901+,12.19,Theewaterskloof,16.95,10.7,1,Simply supported,
+B5535,KLEIN RIVER AT GOUDINI ,Bridge,Bridge,11/18/2019,TR02901+,22.1,Theewaterskloof,24.85,10.7,3,Simply supported,
+B5536,KARRINGMELKS RIVER,Bridge,Bridge,11/18/2019,TR02901+,26.41,Theewaterskloof,14.8,9.3,1,Simply supported,
+B5537,BRIDGE OVER KARS RIVER,Bridge,Bridge,12/4/2019,TR02901+,44.81,Cape Agulhas,19,11,3,Simply supported,1/1/1950
+B5538,BRIDGE OVER KLEIN KARS RIVER,Bridge,Bridge,12/4/2019,TR02901+,45.16,Cape Agulhas,26.5,10,4,Simply supported,1/1/1950
+B5539,BRIDGE OVER GROOT-SANDDRIFTRIVIER,Bridge,Bridge,12/8/2019,TR02901+,61.02,Cape Agulhas,14.33,11,2,Continous and simply supported,
+B5548,OLIFANTS RIVER CANAL NO 1 AT KLAWER,Bridge,Bridge,11/11/2019,MR00547+,1.1,Matzikama,7.2,13.5,1,Simply supported,1/1/1980
+B5567,Gwaing River,Bridge,Bridge,11/18/2019,TR00209,21.81,George,64.4,10.9,4,Simply supported,1/1/1985
+B5571,RIVIERSONDEREND NO 1 AT DENNEBOS,Bridge,Bridge,11/25/2019,DR01320+,1.56,Theewaterskloof,36,9.5,1,Simply supported,
+B5572,RIVIERSONDEREND NO 2 AT SANDHOOGTE,Bridge,Bridge,11/25/2019,DR01320+,8.62,Theewaterskloof,57.4,9.5,4,,
+B5575,GAMKA RIVER,Bridge,Bridge,11/20/2019,DR01661,50.47,Kannaland,147,10,8,Continuous,1/1/1987
+B5576,GOURITS RIVER AT MELKHOUTFONTEIN,Bridge,Bridge,11/12/2019,DR01525,23.54,Mossel Bay,125,4.7,7,Continuous,1/1/1982
+B5581,BRIDGE OVER KEISIES RIVER,Bridge,Bridge,10/31/2019,MR00295,72.58,Langeberg,76,10.7,6,Continous and simply supported,1/1/1985
+B5582,VANGUARD INTERCHANGE NO 02,Bridge,Bridge,11/13/2019,TR00201,8.72,City of Cape Town (LMB),60.5,16.55,4,Simply supported,
+B5583,"ROAD OVER RAIL AT ADAM TAS - STELLENBOSCH
+",Bridge,Bridge,11/5/2019,MR00177,31.48,Stellenbosch,36.5,26.86,4,Simply supported,1/1/1982
+B5584,"PLANKENBERG RIVER - STELLENBOSCH
+",Bridge,Bridge,11/5/2019,MR00177,31.55,Stellenbosch,23.85,27.74,2,Simply supported,1/1/1982
+B5589,Palmiet River,Bridge,Bridge - Arch,11/28/2019,TR02701+,16,Overstrand,56.5,13.6,1,Arch,1/1/1989
+B5591,BRIDGE OVER BUFFELS RIVER,Bridge,Bridge,11/26/2019,DR01481,6.5,Laingsburg,97.6,5.27,12,Simply supported,1/1/1984
+B5604,Road over rail at km 11.39,Bridge,Bridge,11/4/2019,TR08101,11.39,City of Cape Town (LMB),27.6,25.6,2,Simply supported,
+B5605,ROAD OVER EISHLEBEN DRIVE,Bridge,Bridge,5/20/2020,TR08101,10.66,City of Cape Town (LMB),,,4,,
+B5606,Stock road overpass,Bridge,Bridge,11/4/2019,TR08101,11.82,City of Cape Town (LMB),55.8,25.2,4,Continuous,
+B5615,BRIDGE OVER KABOUSRIVIER AT NOOITGEDACHT,Bridge,Bridge,10/30/2019,TR03201,20.36,Langeberg,20,12.3,3,Simply supported,
+B5642,Road over rail at km 12.61,Bridge,Bridge,11/18/2019,TR08101,12.61,City of Cape Town (LMB),60.2,12.2,3,Continuous,
+B5646,Hartenbos River,Bridge,Bridge,11/6/2019,TR03302,3.66,Mossel Bay,90.6,10.7,7,Cantilever with drop in spans,1/1/1987
+B5650,BRIDGE OVER BADS RIVER - CALEDON,Bridge,Bridge,11/19/2019,TR02901+,1.06,Theewaterskloof,20,18.6,1,Simply supported,
+B5651,BRIDGE OVER DIEP RIVER AT MILNERTON,Bridge,Bridge,11/7/2019,TR07701,8.58,City of Cape Town (LMB),156,13.3,12,Simply supported,1/1/1927
+B5654,HEX RIVER AT DE WET,Bridge,Bridge,11/7/2019,DR01423+,0.07,Breede Vallei,75,4.88,6,Simply supported,1/1/1964
+B5662,BREEDE RIVER,Bridge,Bridge,11/8/2019,MR00201+,0.1,Witzenberg,100,10.8,3,Continuous,1/1/1986
+B5669,Dawidskraal River (Cascades River),Bridge,Bridge,11/26/2019,TR02701+,24.1,Overstrand,28,17.8,3,Continuous,1/1/1987
+B5677,SLANGHOEK RIVER BRIDGE,Bridge,Bridge,10/30/2019,DR01398+,16.19,Breede Vallei,76.4,9.26,6,Simply supported,1/1/1989
+B5680,RIVIERSONDEREND TRIBUTARY AT EBENHAEZER,Bridge,Bridge,11/25/2019,MR00279+,20.73,Theewaterskloof,10.23,12.3,1,Simply supported,1/1/1995
+B5681,BRIDGE OVER KLIPHUIS RIVER,Bridge,Bridge,11/13/2019,MR00542,16.63,Cederberg,11,9.5,1,Simply supported,1/1/1986
+B5693,BRIDGE OVER MATJIES RIVER CAUSEWAY,Bridge,Bridge,11/12/2019,  DR01487,52.1,Cederberg,33,9,4,Simply supported,1/1/1989
+B5730,BERG RIVER AT SKOENMAKERSFONTEIN,Bridge,Bridge,11/28/2019,DR01161,33.26,Drakenstein,62.62,4.07,2,Simply supported,1/1/1984
+B5731,"BERG RIVER AT OU WA
+",Bridge,Bridge,12/5/2019,DR01175,10.83,Swartland,114.58,5.48,3,Simply supported,1/1/1984
+B5734,RIVIERSONDEREND AT NETHERCOURT,Bridge,Bridge,11/11/2019,DR01279,20.46,Theewaterskloof,14.78,7.55,1,Simply supported,
+B5736,Brakkloof River,Bridge,Bridge,11/7/2019,TR00209,9.47,George,10.65,10.7,1,Simply supported,1/1/1990
+B5738,OLIFANTS RIVER ,Bridge,Bridge,11/20/2019,DR01681,6.19,Kannaland,75,9.2,7,Simply supported,1/1/1991
+B5739,RIET RIVER,Bridge,Bridge,11/1/2019,TR03103,21.96,Langeberg,11.3,10.7,1,Simply supported,1/1/1989
+B5741,BRIDGE OVER SCHEEPERSRUS RIVER,Bridge,Bridge,11/1/2019,TR03103,30.55,Langeberg,14.1,11.2,1,Simply supported,1/1/1991
+B5744,BRIDGE OVER TRADOURIVIER TRIBUTARY,Bridge,Bridge,12/10/2019,TR03103+,57.19,Swellendam,9,11,1,Simply supported,
+B5745,BRIDGE OVER SOUTKLOOF RIVER,Bridge,Bridge,12/10/2019,TR03103+,60.77,Swellendam,27.4,11,2,Simply supported,1/1/1992
+B5746,BRIDGE OVER HUISRIVIER,Bridge,Bridge,12/10/2019,TR06501+,32.53,Swellendam,13.6,10.4,1,Simply supported,1/1/1988
+B5753,DORING RIVER NO 1 BRIDGE,Bridge,Bridge,11/1/2019,DR01375+,2.1,Breede Vallei,33.6,9.6,4,Frame,1/1/1989
+B5755,Hartenbos River,Bridge,Bridge,11/6/2019,MR00344,0.11,Mossel Bay,98,13.6,4,Simply supported,1/1/1990
+B5767,KLEINPLAAS STREAM,Bridge,Bridge,7/4/2002,TR03101,1.42,Breede Vallei,7.2,13.6,1,Simply supported,1/1/1949
+B5768,BREWELSKLOOF STREAM,Bridge,Bridge,7/4/2002,TR03101,1.64,Breede Vallei,7.5,13.7,1,Simply supported,1/1/1949
+B5769,HEX RIVER NO 1,Bridge,Bridge,7/4/2002,TR03101,1.97,Breede Vallei,14,13.6,2,Simply supported,1/1/1949
+B5770,HEX RIVER NO 2,Bridge,Bridge,7/4/2002,TR03101,2.21,Breede Vallei,48.2,13.3,7,Simply supported,1/1/1949
+B5771,HEX RIVER NO 3,Bridge,Bridge,7/4/2002,TR03101,2.35,Breede Vallei,27.35,13.4,4,Simply supported,1/1/1949
+B5772,HEX RIVER NO 4,Bridge,Bridge,7/4/2002,TR03101,2.43,Breede Vallei,33.85,13.4,5,Simply supported,1/1/1949
+B5773,HEX RIVER NO 5,Bridge,Bridge,11/7/2019,TR03101+,2.71,Breede Vallei,13.6,25.7,2,Simply supported,1/1/1951
+B5774,HEX RIVER NO 6,Bridge,Bridge,11/7/2019,TR03101+,2.76,Breede Vallei,7.1,17.7,1,Simply supported,1/1/1951
+B5775,HEX RIVER NO 7,Bridge,Bridge,11/7/2019,TR03101+,2.82,Breede Vallei,13.6,14,2,Simply supported,1/1/1951
+B5776,HEX RIVER NO 8,Bridge,Bridge,11/7/2019,TR03101+,2.9,Breede Vallei,7.05,14,1,Simply supported,1/1/1951
+B5777,HEX RIVER NO 9,Bridge,Bridge,11/7/2019,TR03101+,3.1,Breede Vallei,7.05,13.8,1,Simply supported,1/1/1951
+B5778,HEX RIVER NO 10,Bridge,Bridge,11/7/2019,TR03101+,3.87,Breede Vallei,7.1,13.8,1,Simply supported,1/1/1951
+B5779,Hex River No 11,Bridge,Bridge,11/7/2019,TR03101+,4.1,Breede Vallei,7.15,13.5,1,Simply supported,1/1/1951
+B5780,NUY RIVER,Bridge,Bridge,11/6/2019,TR03101+,11.85,Breede Vallei,104,10.1,10,Simply supported,1/1/1960
+B5781,Willem Nels River,Bridge,Bridge,11/18/2019,TR03101,44.94,Langeberg,27.76,15.54,4,Continous and simply supported,1/1/1937
+B5785,IRRIGATION CANAL AT TRAWAL,Bridge,Bridge,11/12/2019,DR02197+,0.08,Matzikama,12.7,9.55,1,Simply supported,1/1/1990
+B5792,BERG RIVER CAUSEWAY AT SONQUASDRIF,Bridge,Bridge,11/21/2019,DR01154,4.32,Drakenstein,41,9.7,4,Continuous,1/1/1990
+B5796,Weltevreden Road Bridge,Bridge,Bridge,11/4/2019,TR08101,9.76,City of Cape Town (LMB),63.6,16.1,4,Continuous,
+B5832,DASSIEDRAAI RIVER,Bridge,Bridge,9/9/2003,TR03305,25.62,Prince Albert,9.85,12.95,1,Simply supported,1/1/1990
+B5837,Road over road at Koeberg Interchange,Bridge,Bridge,11/4/2019,TR00201,0,City of Cape Town (LMB),37.5,13.9,3,Continuous,
+B5846,BRIDGE OVER BUFFELS RIVER,Bridge,Bridge,11/12/2019,DR02405,57.4,Beaufort West,63.8,3.62,6,Continuous,1/1/1992
+B5851,Paapenberg Road Interchange,Bridge,Bridge,11/8/2019,TR00201,3.46,City of Cape Town (LMB),52.6,24.6,4,Simply supported,
+B5859,BRIDGE OVER JAN DU TOITS RIVER,Bridge,Bridge,10/31/2019,OP05699,0.34,Breede Vallei,27,4.3,3,Simply supported,
+B5861,Bosmansdam Interchange No.2,Bridge,Bridge,11/21/2019,TR01101,1.35,City of Cape Town (LMB),66.1,16,4,Simply supported,
+B5863,Bridge over Mosselbank River,Bridge,Bridge,11/19/2019,MR00188,25.73,City of Cape Town (LMB),58,15,4,Continuous,
+B5884,OLD OAK INTERCHANGE NO 2,Bridge,Bridge,11/12/2019,TR00901,18.73,City of Cape Town (LMB),82.85,17.3,4,Continuous,1/1/1998
+B5885,BRIDGE OVER RIVIERSONDEREND,Bridge,Bridge,12/9/2019,MR00282+,0.61,Swellendam,83.5,5,4,Truss,
+B5887,Koeberg Interchange No.1,Bridge,Bridge,11/4/2019,TR00901,0.15,City of Cape Town (LMB),37.5,13.9,3,Continuous,
+B5888,Koeberg Interchange No. 2,Bridge,Bridge,11/4/2019,TR00901,0.3,City of Cape Town (LMB),37.5,10.4,3,,
+B5889,Koeberg Interchange No. 3,Bridge,Bridge,11/4/2019,TR00901,0.2,City of Cape Town (LMB),44.4,13.3,3,Continuous,
+B5890,Koeberg Interchange No. 4,Bridge,Bridge,11/5/2019,TR00901,0.28,City of Cape Town (LMB),46.2,15.3,3,Continuous,
+B5895,Modder River at Fancourt,Bridge,Bridge,11/10/2019,MR00347,0,George,75.5,14.3,6,Continuous,1/1/2017
+B5901,OUTENIQUE PASS VIADUCT,Bridge,Bridge,11/19/2019,TR00101,12.18,George,96,11.15,12,Simply supported,1/1/1996
+B5905,Touw River,Bridge,Bridge,11/9/2019,MR00355,15.09,George,30.4,6.12,1,Plate girder,1/1/2000
+B5906,Hoogekraal River,Bridge,Bridge,11/9/2019,MR00355,33.9,Knysna,22.65,5.25,1,Simply supported,1/1/1959
+B5907,KARATARA RIVER,Bridge,Bridge,11/26/2019,MR00355,43.17,Knysna,30.4,5.36,1,Plate girder,
+B5908,Homtini River,Bridge,Bridge,11/27/2019,MR00355,54.61,Knysna,60.9,5.35,2,Simply supported,
+B5910,CAPE FLATS ROAD OVER RAIL,Bridge,Bridge,11/15/2019,TR00201,4.79,City of Cape Town (LMB),19.1,32.9,2,Simply supported,
+B5911,ATHLONE ROAD OVER RAIL,Bridge,Bridge,11/15/2019,TR00201,5.1,City of Cape Town (LMB),16.4,32.65,1,Simply supported,
+B5912,BORCHERDS QUARRY PEDESTRIAN OVERPASS,Bridge,Bridge,11/12/2019,TR00201,13.75,City of Cape Town (LMB),96,3.5,6,Simply supported,
+B5913,HOOPS RIVER,Bridge,Bridge,11/18/2019,TR03102,0.26,Langeberg,20.7,24,3,Simply supported,
+B5919,"BERG RIVER AT SIR GEORGE GREY
+",Bridge,Bridge,11/22/2019,MR00191,15.64,Stellenbosch,110.55,13.07,3,Simply supported,1/1/1996
+B5935,Belhar bridge over Kuils river canal,Bridge,Bridge,11/4/2019,MR00177,14.29,City of Cape Town (LMB),48,17.8,3,Simply supported,
+B5936,"DWARS RIVER
+",Bridge,Bridge,11/21/2019,MR00191,10.66,Stellenbosch,48.5,15.46,2,Continous and simply supported,1/1/1996
+B5939,BOYS TOWN PEDESTRIAN OVERPASS,Bridge,Bridge,11/13/2019,TR00201,15.49,City of Cape Town (LMB),121,3.5,6,Simply supported,
+B5948,Settlers Way Interchange,Bridge,Bridge,11/7/2019,TR00201,2.87,City of Cape Town (LMB),54,30.9,4,Simply supported,
+B5949A,Black River at Settlers Way Interchange,Bridge,Bridge,11/7/2019,TR00201,2.96,City of Cape Town (LMB),47.6,32,3,Cantilever with drop in spans,
+B5953,SALDANHA PORT ROAD OVER RAIL,Bridge,Bridge,2/20/2020,MR00559,5.06,Saldanha Bay,152.26,14.28,7,Simply supported,
+B5954,Black River SE Ramp,Bridge,Bridge,11/8/2019,TR00201,3.18,City of Cape Town (LMB),81.3,8.2,4,Continuous,
+B5955,NYANGA ROAD OVER RAIL,Bridge,Bridge,11/12/2019,TR00201,10.86,City of Cape Town (LMB),20.2,41,2,Simply supported,
+B5956,AIRPORT ACCESS INTERCHANGE,Bridge,Bridge,11/12/2019,TR00201,12.08,City of Cape Town (LMB),65.1,20.9,4,Simply supported,
+B5960,SABLE ROAD INTERCHANGE,Bridge,Bridge,11/26/2019,TR00901,3.58,City of Cape Town (LMB),105.1,20.78,6,Continuous,
+B5961,Road over rail - Sable,Bridge,Bridge,11/26/2019,TR00901,3.58,City of Cape Town (LMB),11.4,40.6,1,Simply supported,
+B5965,AIRPORT ACCESS ROAD UNDERPASS NO 2,Bridge,Bridge,11/11/2019,TR05401,1.51,City of Cape Town (LMB),44.5,12.8,2,Continuous,
+B5965A,AIRPORT ACCESS ROAD UNDERPASS NO 01,Bridge,Bridge,11/11/2019,TR05401,1.54,City of Cape Town (LMB),44.5,12.8,2,Continuous,
+B5967,CARL CRONJE DRIVE UNDERPASS,Bridge,Bridge,11/12/2019,TR00901,15.83,City of Cape Town (LMB),34.31,60.4,2,Simply supported,1/1/2000
+B5968,MEIRINGSPOORT RIVER CAUSEWAY,Bridge,Bridge,11/7/2019,DR01707+,8.49,Oudtshoorn,33.6,4.7,4,Simply supported,
+B5969,OLIFANTS RIVER CAUSEWAY,Bridge,Bridge,11/7/2019,DR01707+,8.49,Oudtshoorn,32,4.5,4,Simply supported,
+B5970,WYNANDS RIVER CAUSEWAY,Bridge,Bridge,11/7/2019,DR01689+,14.67,Oudtshoorn,36.8,8.72,4,Simply supported,
+B5974,DUFERCO BRIDGE,Bridge,Bridge,1/1/2000,OP07645,0.56,Saldanha Bay,,,3,,
+B5981,Waterfall Pedestrian bridge,Bridge,Bridge,11/16/2019,TR03304+,11.6,Prince Albert,30,2.55,2,Continuous,1/1/1997
+B5982,Bad River Bridge,Bridge,Bridge,11/7/2019,MR00582+,74.44,Prince Albert,32,9.55,2,Continuous,1/1/2003
+B5983,BRIDGE OVER HEX RIVER AT KANETVLEI,Bridge,Bridge,10/31/2019,OP05719+,0.49,Breede Vallei,40.4,3.3,8,Simply supported,
+B5984,Phillipi Pedestrian Bridge,Bridge,Bridge,11/4/2019,TR08101,13.15,City of Cape Town (LMB),70.1,3.6,4,Simply supported,
+B5986,DUIWENHOKS RIVER BRIDGE,Bridge,Bridge,11/21/2019,DR01315,0.76,Hessequa,81.9,9.76,6,Continous and simply supported,
+B5989,BRIDGE OVER NUWEJAARS RIVER,Bridge,Bridge,12/5/2019,MR00262+,18.88,Cape Agulhas,32,10,4,Simply supported,
+B5992,Uilenkraals River Bridge on DR01205,Bridge,Bridge,11/21/2019,DR01205+,7.96,Overstrand,27.4,9.5,5,Frame,
+B5993,BRIDGE 5993 ON TR11/1 AT POTSDAM INTERCHANGE,Bridge,Bridge,7/9/2021,TR01101,8.71,City of Cape Town (LMB),91.5,17,4,Simply supported,
+B5994,BRIDGE AT DOORN RIVER,Bridge,Bridge,11/19/2019,MR00286,11.7,Hessequa,9.2,9.5,1,Frame,1/1/2009
+B5995,BRIDGE OVER DORPS RIVER ON R328,Bridge,Bridge,11/15/2019,MR00369+,36.7,Prince Albert,16,10.75,2,Continuous,1/1/2009
+B5996,VANGUARD DRIVE,Bridge,Bridge,11/12/2019,TR00201,11.47,City of Cape Town (LMB),51,14.7,2,Continuous,
+B5998,BRIDGE OVER HEX RIVER AT ORCHARD,Bridge,Bridge,10/31/2019,DR01438+,5.6,Breede Vallei,20.5,9.2,1,Simply supported,1/1/2011
+B5999,BRIDGE OVER HEX RIVER AT VOLMOED,Bridge,Bridge,10/30/2019,OP05742+,3.12,Breede Vallei,13.1,4.7,1,Integral bridge,1/1/2011
+B6000,Ramp at Koeberg Interchange,Bridge,Bridge,11/14/2019,TR00201,0,City of Cape Town (LMB),636.1,10.66,16,Continous and simply supported,
+B6001,Ramp at Koeberg Interchange,Bridge,Bridge,11/14/2019,TR00201,0,City of Cape Town (LMB),687.1,11.26,19,Continous and simply supported,
+B6002,Black River Bridge,Bridge,Bridge,11/7/2019,TR00201,1.97,City of Cape Town (LMB),62.8,32.47,4,Simply supported,
+B6003,BRIDGE OVER THE BROEK RIVER (PALM),Bridge,Bridge,10/29/2019,OP05745+,0.84,Breede Vallei,13.1,4.7,1,Integral bridge,1/1/2011
+B6004,Bridge over the Witte Els River,Bridge,Bridge,11/8/2019,DR01631,7.14,George,20,6.65,2,Frame,1/1/2010
+B6005,BAVIAANS RIVER BRIDGE,Bridge,Bridge,11/7/2019,DR01298,26.31,Theewaterskloof,13.5,10.1,1,Simply supported,
+B6006,BRIDGE OVER KROM RIVER (VALLEY ROAD),Bridge,Bridge,12/2/2019,DR01285+,10.28,Theewaterskloof,10.9,6.7,1,Simply supported,1/1/2011
+B6009,Valkenberg Overpass,Bridge,Bridge,11/7/2019,TR00201,2.42,City of Cape Town (LMB),60.8,5.5,2,Continuous,
+B6010,RIVER BRIDGE AT EIKENHOF,Bridge,Bridge,10/30/2019,OP05742+,0.85,Breede Vallei,10.46,4.7,1,Simply supported,
+B6011,BRIDGE OVER BOESMANS RIVER,Bridge,Bridge,11/18/2019,DR01339,6.56,Langeberg,47.2,8.15,8,Continous and simply supported,
+B6012,BRIDGE OVER HEX RIVER AT MORGENSON,Bridge,Bridge,10/30/2019,OP05740+,0.77,Breede Vallei,13.2,4.8,1,Integral bridge,1/1/2012
+B6013,BRIDGE OVER HEX RIVER AT HEX RIVER STATION,Bridge,Bridge,10/31/2019,OP05723+,0.12,Breede Vallei,29.89,5,3,Simply supported,
+B6014,BRIDGE OVER HEX RIVER AT DE VLEI,Bridge,Bridge,10/30/2019,OP05739+,0.86,Breede Vallei,14.04,3.7,1,Plate girder,
+B6016,BRIDGE OVER SOUTRIVIER CANAL,Bridge,Bridge,11/26/2019,TR00901,0.12,City of Cape Town (LMB),45.5,41.6,5,Continuous,
+B6017,"BRIDGE AT Km 2.37 (VREDENBERG)
+",Bridge,Bridge,11/7/2019,MR00166,2.37,Stellenbosch,20.5,16,1,Cellular,1/1/2018
+B6018,BRIDGE OVER CANAL,Bridge,Bridge,11/5/2019,DR02222+,0.47,Matzikama,8.35,9.24,1,Simply supported,1/1/2014
+B6019,"ROAD OVER RAIL AT VLAEBERG ROAD
+",Bridge,Bridge,11/1/2019,DR01052,0.21,Stellenbosch,15.7,10.9,1,Simply supported,1/1/2016
+B6024,"PEDESTRIAN BRIDGE OVER RAIL
+",Bridge,Bridge,10/31/2019,OP05204,0.06,Stellenbosch,24.9,3.1,1,Simply supported,1/1/2016
+B6025,BRIDGE OVER BAVIAANS RIVER AT GENADENDAL,Bridge,Bridge,11/7/2019,OP04087,1.71,Theewaterskloof,12,9.6,1,Simply supported,
+B6026,BRIDGE OVER BOT RIVER AT KANAAN,Bridge,Bridge,12/2/2019,DR01288+,10.53,Theewaterskloof,14.2,9.6,1,Simply supported,1/1/2016
+B6027,BRIDGE OVER ELANDSKLOOF RIVER AT MEERLUSTKLOOF,Bridge,Bridge,11/6/2019,DR01313,10.26,Theewaterskloof,21.3,6.64,6,Simply supported,
+B6028,BRIDGE OVER JAN DE BOERS RIVER,Bridge,Bridge,10/29/2019,YMR00308+,1.37,Breede Vallei,33,12.3,5,Simply supported,1/1/1956
+B6031,BRIDGE OVER MEULE RIVIER,Bridge,Bridge,11/5/2019,DR01298+,17.87,Theewaterskloof,26,9.3,4,Simply supported,
+B6035,PROPOSED NEW EISLEBEN ROAD BRIDGE,Bridge,Bridge,8/26/2021,TR00201,14.64,City of Cape Town (LMB),,,2,,
+B6036,SALDANHA INTERCHANGE,Bridge,Bridge,11/14/2019,TR08501,0,Saldanha Bay,93.7,18.7,4,Continuous,1/1/2019
+B6037,ROAD OVER RAIL BRIDGE,Bridge,Bridge,11/11/2019,MR00559,1.88,Saldanha Bay,48.4,14.8,2,Continuous,1/1/2018
+B6038,SALDANHA OVERPASS,Bridge,Bridge,11/14/2019,TR08501,0,Saldanha Bay,26.8,24.1,1,Simply supported,1/1/2019
+B6042,LINK ROAD BRIDGE OVER MR00559,Bridge,Bridge,11/11/2019,MR00559,3.57,Saldanha Bay,38.1,11.1,2,Simply supported,1/1/2017
+B6043,ROAD OVER ROAD AND RAIL AT FAURE,Bridge,Bridge,11/17/2020,MR00168,0.3,City of Cape Town (LMB),91.2,13.2,6,Continous and simply supported,1/1/2019
+B6090,BRANDWACHT PEDESTRIAN BRIDGE,Bridge,Bridge,10/14/2021,TR03302,10.96,Mossel Bay,41.8,2.6,3,Continuous,1/1/2021
+B6096,BRIDGE OVER TOUWRIVIER (CAUSEWAY),Bridge,Bridge,11/18/2019,DR01401,7.9,Kannaland,81,4.8,15,Continuous,1/1/2017
+B6101,BRIDGE OVER NORGA RIVER,Bridge,Bridge,11/18/2019,TR00209,20.69,George,14,14,2,Simply supported,1/1/1951
+B6103,BRIDGE OVER ROOIKRANS RIVER,Bridge,Bridge,2/1/2021,TR04401+,36.33,George,6.8,11.4,1,Simply supported,1/1/1961
+B6105,BRIDGE OVER THE BRAK RIVIER,Bridge,Bridge,11/19/2019,TR00102,17.01,George,13.1,10.4,2,Simply supported,1/1/1951
+B6108,BRIDGE OVER DIEP RIVIER AT DOORNKUIL,Bridge,Bridge,10/22/2020,OP05388,0.1,Swartland,,,4,,
+B6109,BRIDGE OVER OUDSTE RIVER,Bridge,Bridge,9/2/2020,DR02176+,28.48,Cederberg,13.3,11.2,2,Simply supported,
+B6110,BRIDGE OVER GROOT RIVER,Bridge,Bridge,8/18/2020, TR03103+,38.36,Swellendam,13.2,17.5,2,Simply supported,
+B6111,BRIDGE OVER HOTNOTSKRAAL RIVER  AT KYKOEDIE,Bridge,Bridge,9/14/2020,MR00265+,25.87,Cape Agulhas,7.1,9.7,1,Cellular,
+B6118,BRIDGE OVER VYGEKRAAL RIVER,Bridge,Bridge,11/13/2019,TR00201,7.03,City of Cape Town (LMB),6.95,34.4,1,Simply supported,
+B6122,BRIDGE OVER NOGO RIVER,Bridge,Bridge,11/7/2001,MR00230,3.03,Swartland,12.6,13.3,3,Simply supported,1/1/1961
+B6125,BRIDGE OVER AFDAKS RIVER,Bridge,Bridge,11/29/2019,DR01254+,1.03,Overstrand,16.3,7.3,3,Continuous,
+B6126,BRIDGE OVER RIVIERSONDEREND TRIBUTARY AT VYEBOOM ,Bridge,Bridge,11/25/2019,DR01320+,0.62,Theewaterskloof,17,7.6,3,Simply supported,
+B9001,Boesmans River Causeway,Bridge,Bridge,11/19/2019,DR02161+,16.62,Bergrivier,8.4,7.7,1,Simply supported,
+B9003,DWARS RIVER,Bridge,Bridge,11/6/2001,DR01487,42.36,Cederberg,7.4,4.2,1,Simply supported,1/1/1999
+B9004,OLIFANTS RIVER CANAL AT BOTLARY,Bridge,Bridge,11/12/2019,MR00547+,2.22,Matzikama,6.7,9.01,1,Simply supported,1/1/1999
+B9005,BRIDGE OVER KAMBROO RIVER,Bridge,Bridge,12/2/2019,DR02400,3.91,Beaufort West,33.8,6.9,5,Simply supported,1/1/1999
+B9006,IRRIGATION CANAL AT GOEDGEMEEN,Bridge,Bridge,11/8/2019,DR02210+,5.39,Matzikama,6.3,7.34,1,Simply supported,1/1/1999
+B9008,FRANSCHOEK RIVER,Bridge,Bridge,11/27/2019,OP05615,0.67,Stellenbosch,23.9,6.41,1,Arch,1/1/1989
+B9009,VOELVLEI IRRIGATION CANAL NO 1,Bridge,Bridge,11/26/2019,TR02302,15.89,Drakenstein,10.4,12.44,1,Simply supported,1/1/1964
+B9010,CULVERT OVER KEISERS RIVER,Bridge,Bridge,11/17/2019,DR01353,7.94,Langeberg,12.5,9.8,2,Cellular,
+B9013,DROE ROVER CULVERT,Bridge,Bridge,11/18/2019,DR01378,0.17,Langeberg,6.3,9.36,1,Cellular,
+B9014,BREEDE RIVER LOW-LEVEL BRIDGE,Bridge,Bridge,11/1/2019,DR01379+,8.11,Breede Vallei,82.8,3.8,36,Simply supported,
+B9017,BREEDE RIVER CAUSEWAY,Bridge,Bridge,11/14/2019,DR01398+,22.59,Witzenberg,83.4,3.65,39,Simply supported,
+B9018,SPRUIT RIVER,Bridge,Bridge,11/21/2019,DR01408,3.85,Drakenstein,6.8,11.7,1,Simply supported,1/1/1968
+B9022,CULVERT AT SV 9.94,Bridge,Bridge,11/6/2019,MR00316+,9.94,Witzenberg,7,15,1,Simply supported,1/1/1999
+B9024,Donkies R. Tributary,Bridge,Bridge,10/29/2019,TR02202,71.22,Breede Vallei,7,11.1,1,Simply supported,1/1/1999
+B9026,IRRIGATION CANAL AT GIDEONS OORD,Bridge,Bridge,11/12/2019,DR02212+,7.61,Matzikama,7.65,8.86,1,Simply supported,1/1/1999
+B9028,IRRIGATION CANAL AT PALMOED,Bridge,Bridge,11/7/2019,MR00548+,0.46,Matzikama,8.3,10.44,1,Simply supported,1/1/1999
+B9029,OLIFANTS RIVER CANAL AT DE HOOP,Bridge,Bridge,11/6/2019,MR00547+,27.53,Matzikama,6.5,8.94,1,Simply supported,1/1/1999
+B9031,IRRIGATION CANAL AT SV 0.16,Bridge,Bridge,11/12/2019,DR02199+,0.16,Matzikama,6,5.06,1,Simply supported,1/1/1999
+B9041,Koeberg Road Over Rail No.1,Bridge,Bridge,11/5/2019,TR00201,0.26,City of Cape Town (LMB),37.3,14.2,4,Simply supported,
+B9042,Koeberg Road Over Rail No. 2,Bridge,Bridge,11/5/2019,TR00201,0.24,City of Cape Town (LMB),38.9,10.7,4,Simply supported,
+B9043,Koeberg Road over rail No.3,Bridge,Bridge,11/5/2019,TR00201,0.24,City of Cape Town (LMB),38.9,16.4,4,Continuous,
+B9044,Koeberg Road over Road,Bridge,Bridge,11/6/2019,YTR00201,0.6,City of Cape Town (LMB),70.2,10.76,8,Simply supported,
+B9061,DROE KLOOF CULVERT,Bridge,Bridge,11/18/2019,MR00365,3.3,Kannaland,7.2,12,1,Simply supported,
+B9066,IRRIGATION CANAL AT KERKRAND,Bridge,Bridge,11/6/2019,DR01685+,1.07,Oudtshoorn,7.3,9.64,1,Simply supported,
+B9067,IRRIGATION CANAL AT HOOPVOL,Bridge,Bridge,11/6/2019,DR01686+,0.3,Oudtshoorn,7.4,11.26,1,Simply supported,
+B9071,Tributary over Doring River no 3,Bridge,Bridge,11/18/2019,DR01640,11.46,George,7.8,4.2,1,Simply supported,1/1/1905
+B9082,ROAD OVER RAIL AT VERGELEGEN,Bridge,Bridge,11/7/2019,DR01697+,22.28,Oudtshoorn,18.6,4.2,3,Simply supported,
+B9092,CULVERT AT LOSBERG,Bridge,Bridge,11/14/2019,MR00584,43.12,Beaufort West,6.78,10.3,1,Simply supported,
